@@ -117,8 +117,8 @@ A abordagem é fundamental no campo da experiência do usuário.
 
 | **Atributo de Boas Práticas**                | **Descrição**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
-| `Relevante`   | Objetivo de interesse e necessário aos usuários..                                                     |
-|`Sem excessos`    | Textos ou informações desnecessárias ou exageradas..                                   |
+| `Relevante`   | Objetivo de interesse e necessário aos usuários.                                                     |
+|`Sem excessos`    | Textos ou informações desnecessárias ou exageradas.                                   |
 |`Resposta rápida`    | Execução, carregamentos ágeis da aplicação.                                   |
 |`Personalização`    | Usuários realizarem personalização, temas, opções de layout ou configurações de privacidade.                                   |
 |`Design responsivo`    | Experiência com vários tipos de desktops.                                   |
