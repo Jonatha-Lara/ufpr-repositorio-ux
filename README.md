@@ -4,7 +4,7 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 
 # 🔭🤓User Experience - Unidade 1: Introdução ao UX 
 
-- displicna que cria produtos e serviços que oferecem experiências significativas e satisfatórias para os usuário.
+- disciplina que cria produtos e serviços que oferecem experiências significativas e satisfatórias para os usuário.
 
 - Objetivo de entender as necessidades e desejos dos usuários e, em seguida, projetar produtos que atendam essas necessidades de forma eficaz e agradável. 
 
@@ -15,7 +15,7 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 - Teste de usabilidade
 - Analise de métricas
 
-🛒 Produto intutivo: Fácil de usar, colaboração com partes, desenvolvedores, cliente (usuário), requisitos, stakeholders.
+🛒 Produto intuitivo: Fácil de usar, colaboração com partes, desenvolvedores, cliente (usuário), requisitos, stakeholders.
 
 🛒 Aplicação UX: Não apenas em apps ou web (produtos digitais), mas também em produtos físicos.
 
@@ -32,12 +32,12 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 |`IxD - Design de Interação`    | Forma como o usuário e produto ou aplicativo interagem entre si.                                   |
 |`IA - Arquitetura de Informação`    | Como os produtos os aplicativos são organizados.                                   |
 
-## Conceitos Psicológicos Funtamentais para Interação
+## Conceitos Psicológicos Fundamentais para Interação
 
-- `Recursos/Possibilidades:` o objetivo principal do produto ou aplitativo.
+- `Recursos/Possibilidades:` o objetivo principal do produto ou aplicativo.
 - `Indicadores:` ajudar o usuário na ação que ele deve ser feita por ele.
-- `Restrições:` indicar os erros/advertencias para orientar o usuário no uso correto.
-- `Mapeamento:` o caminho do usuário para uma tarefa com o produto. Compararação da visão de desenvolvedor e usuário.
+- `Restrições:` indicar os erros/advertências para orientar o usuário no uso correto.
+- `Mapeamento:` o caminho do usuário para uma tarefa com o produto. Comparação da visão de desenvolvedor e usuário.
 - `FeedBack:` função que está realizando, o propósito/trabalho que o usuário esta trilhando.
 
 ## Importância do UX
@@ -56,7 +56,7 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 
 `1988 - Livro conceito de UX () "The Design of everyday Thinks"`
 
-- UX Metodologias sugidas (Donald Norman e Jakob Nilsen):
+- UX Metodologias surgidas (Donald Norman e Jakob Nilsen):
     - Thinking
     - Agile
 
@@ -66,7 +66,7 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 
 - Pilares Principais
     
-    🏛️ `Relação de usablidade e orgonomia.`
+    🏛️ `Relação de usabilidade e ergonomia.`
     🏛️ `Acessibilidade, experiência do usuário, proteção de dados de uso.`
     🏛️ `Entregar a ideia objetiva ao usuário.`
 
@@ -83,14 +83,14 @@ Uso para todos!
 
 | **Elemento**                | **Descrição**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
-| `Design Inclusivo`   | Considerar ampla necessidade e experiência do usuário desde o ínicio de processo.                                                     |
-|`Normas e Diretrizes`    | Oferecem orientações sobre como tornar produtos diitais acessiveis a deficientes por exemplo.                                 |
+| `Design Inclusivo`   | Considerar ampla necessidade e experiência do usuário desde o início de processo.                                                     |
+|`Normas e Diretrizes`    | Oferecem orientações sobre como tornar produtos digitais acessíveis a deficientes por exemplo.                                 |
 |`Elementos Percebidos`    | Todos os usuários devem perceber o objetivo e uso do produto.                                   |
 |`Robustez`    | Operável, robusto e compreensível.                                   |
 
 ## Design Centrado no usuário (UCD)
 
-A abortagem é fundamental no campo da experiência do usuário.
+A abordagem é fundamental no campo da experiência do usuário.
 
 - Necessidades e expectativas do usuário no centro do processo.
 
@@ -107,21 +107,19 @@ A abortagem é fundamental no campo da experiência do usuário.
     
     IV. Abordagem multidisciplinar: Colaboração entre disciplinas, design, desenvolvimento, pesquisa, marketing e outros stakeholders.
 
-    V. Enfâse de usabilidade.
+    V. Ênfase de usabilidade.
 
     VI. Teste de usabilidade.
 
 ## Boas Práticas
 
-❤️Conteúdo claro e consiso: Relevante
+❤️Conteúdo claro e conciso
+
 | **Atributo de Boas Práticas**                | **Descrição**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
 | `Relevante`   | Objetivo de interesse e necessário aos usuários..                                                     |
-|`Sem exessos`    | Textos ou informações desnecessárias ou exageradas..                                   |
-|`Resposta rápida`    | Execussão, carregamentos ágeis da aplicação.                                   |
+|`Sem excessos`    | Textos ou informações desnecessárias ou exageradas..                                   |
+|`Resposta rápida`    | Execução, carregamentos ágeis da aplicação.                                   |
 |`Personalização`    | Usuários realizarem personalização, temas, opções de layout ou configurações de privacidade.                                   |
 |`Design responsivo`    | Experiência com vários tipos de desktops.                                   |
-|`FeedBack amigáveis`    | Orientar usuário com notificações, mensagem de erro.                                   |
-
-
-
+|`FeedBack amigáveis`    | Orientar usuário com notificações, mensagem de erro.                                   
