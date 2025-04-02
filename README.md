@@ -71,6 +71,7 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
     🏛️ `Entregar a ideia objetiva ao usuário.`
 
 - Regras de ouro para o design de Interface
+
 🔍 `Não ter erros`
 🔍 `Fácil de usar`
 🔍 `Fácil de entender`
@@ -92,22 +93,23 @@ Uso para todos!
 A abortagem é fundamental no campo da experiência do usuário.
 
 - Necessidades e expectativas do usuário no centro do processo.
+
 🔍 `Especificar o contexto de uso`
 🔍 `Especificar os requisitos`
 🔍 `Criar soluções de projeto`
 🔍 `Avaliar o projeto`
 
-    1. Buscar compreensão profunda com o usuário.
+    I. Buscar compreensão profunda com o usuário.
 
-    2. Interação Contínua: Testadas e refinadas com colaboração do usuário.
+    II. Interação Contínua: Testadas e refinadas com colaboração do usuário.
 
-    3. Prototipagem rápida: Pode ser de baixa média ou alta fidelidade.
+    III. Prototipagem rápida: Pode ser de baixa média ou alta fidelidade.
     
-    4. Abordagem multidisciplinar: Colaboração entre disciplinas, design, desenvolvimento, pesquisa, marketing e outros stakeholders.
+    IV. Abordagem multidisciplinar: Colaboração entre disciplinas, design, desenvolvimento, pesquisa, marketing e outros stakeholders.
 
-    5. Enfâse de usabilidade.
+    V. Enfâse de usabilidade.
 
-    6. Teste de usabilidade.
+    VI. Teste de usabilidade.
 
 ## Boas Práticas
 
