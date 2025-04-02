@@ -4,7 +4,7 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 
 # 🔭🤓User Experience - Unidade 1: Introdução ao UX 
 
-- disciplina que cria produtos e serviços que oferecem experiências significativas e satisfatórias para os usuário.
+- Disciplina que cria produtos e serviços que oferecem experiências significativas e satisfatórias para os usuário.
 
 - Objetivo de entender as necessidades e desejos dos usuários e, em seguida, projetar produtos que atendam essas necessidades de forma eficaz e agradável. 
 
