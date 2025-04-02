@@ -88,7 +88,7 @@ Uso para todos!
 |`Elementos Percebidos`    | Todos os usuários devem perceber o objetivo e uso do produto.                                   |
 |`Robustez`    | Operável, robusto e compreensível.                                   |
 
-## Design Centrado no usuário (UCD)
+## Design Centrado no Usuário (UCD)
 
 A abordagem é fundamental no campo da experiência do usuário.
 
