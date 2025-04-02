@@ -25,7 +25,7 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 
 ## Os 4 conceitos de UX
 🛒Os 4 conceitos andam juntos.
-| **UX**                | **Descrição**                                                                 |
+| **Conceitos**                | **Descrição**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
 | `UX - Design de Experiência do Usuário`   | Como o usuário se sente sobre os aplicativos.                                                     |
 |`UI - Design de Interface`    | Onde os elementos funcionam nos produtos (ex. app ou web sites).                                   |
