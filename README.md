@@ -1,10 +1,11 @@
-![UFPR-LOGO](assets/logo-ufpr.jpg)# ufpr-repositorio-ux
+![UFPR-LOGO](assets/logo-ufpr.jpg)
+# ufpr-repositorio-ux
 
 Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolvimento Ágil de Software.
 
-![UX](assets/logo-ux.png)
 
-# User Experience - Unidade 1: Introdução ao UX 
+
+# ![UX](assets/logo-ux.png) User Experience - Unidade 1: Introdução ao UX 
 
 - Disciplina que cria produtos e serviços que oferecem experiências significativas e satisfatórias para os usuário.
 
@@ -34,12 +35,12 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 |`IxD - Design de Interação`    | Forma como o usuário e produto ou aplicativo interagem entre si.                                   |
 |`IA - Arquitetura de Informação`    | Como os produtos os aplicativos são organizados.                                   |
 
-## Conceitos Psicológicos Funtamentais para Interação
+## Conceitos Psicológicos Fundamentais para Interação
 
 - `Recursos/Possibilidades:` O objetivo principal do produto ou aplicativo.
 - `Indicadores:` Ajudar o usuário na ação que ele deve ser feita por ele.
 - `Restrições:` Indicar os erros/advertências para orientar o usuário no uso correto.
-- `Mapeamento:` O caminho do usuário para uma tarefa com o produto. Compararação da visão de desenvolvedor e usuário.
+- `Mapeamento:` O caminho do usuário para uma tarefa com o produto. Comparação da visão de desenvolvedor e usuário.
 - `FeedBack:` Função que está realizando, o propósito/trabalho que o usuário esta trilhando.
 
 ## Importância do UX
@@ -84,14 +85,14 @@ Uso para todos!
 
 | **Elemento**                | **Descrição**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
-| `Design Inclusivo`   | Considerar ampla necessidade e experiência do usuário desde o ínicio de processo.                                                     |
+| `Design Inclusivo`   | Considerar ampla necessidade e experiência do usuário desde o início de processo.                                                     |
 |`Normas e Diretrizes`    | Oferecem orientações sobre como tornar produtos digitais acessíveis a deficientes por exemplo.                                 |
 |`Elementos Percebidos`    | Todos os usuários devem perceber o objetivo e uso do produto.                                   |
 |`Robustez`    | Operável, robusto e compreensível.                                   |
 
 ## Design Centrado no usuário (UCD)
 
-A abortagem é fundamental no campo da experiência do usuário.
+A abordagem é fundamental no campo da experiência do usuário.
 
 - Necessidades e expectativas do usuário no centro do processo.
 🔍 `Especificar o contexto de uso`
@@ -107,32 +108,32 @@ A abortagem é fundamental no campo da experiência do usuário.
     
     4. Abordagem multidisciplinar: Colaboração entre disciplinas, design, desenvolvimento, pesquisa, marketing e outros stakeholders.
 
-    5. Enfâse de usabilidade.
+    5. Ênfase de usabilidade.
 
     6. Teste de usabilidade.
 
 ## Boas Práticas
 
-❤️Conteúdo claro e consiso: Relevante
+❤️Conteúdo claro e conciso: Relevante
 | **Atributo de Boas Práticas**                | **Descrição**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
 | `Relevante`   | Objetivo de interesse e necessário aos usuários.                                                     |
-|`Sem exessos`    | Textos ou informações desnecessárias ou exageradas.                                  |
-|`Resposta rápida`    | Execussão, carregamentos ágeis da aplicação.                                   |
+|`Sem excessos`    | Textos ou informações desnecessárias ou exageradas.                                  |
+|`Resposta rápida`    | Execução, carregamentos ágeis da aplicação.                                   |
 |`Personalização`    | Usuários realizarem personalização, temas, opções de layout ou configurações de privacidade.                                   |
 |`Design responsivo`    | Experiência com vários tipos de desktops.                                   |
 |`FeedBack amigáveis`    | Orientar usuário com notificações, mensagem de erro.
                                    |
  
-![UX](assets/logo-ux.png)
-# User Experience - Unidade 2: Compreensão do Usuário e Arquitetura de Informação
+
+# ![UX](assets/logo-ux.png) User Experience - Unidade 2: Compreensão do Usuário e Arquitetura de Informação
 - Aspectos essenciais na Arquitetura do sistema
 - Experiência interativa e satisfatória para os usuários.
 
 ## Métodos de Pesquisa
 🔍`Entrevistas`, 🔍`Questionários`, 🔍`Observações`,🔍`Pesquisas`
 
-- O metodo abordado depende do objetivo do projeto, recursos, estratégia, objetivos, desejável haver combinações de métodos (mais eficiente dos resultados) 
+- O método abordado depende do objetivo do projeto, recursos, estratégia, objetivos, desejável haver combinações de métodos (mais eficiente dos resultados) 
 | **Tipos de Métodos de Pesquisa**                | **Descrição**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
 | `Entrevistas Individuais:`   | Em profundidade com o usuário, entender próximo do usuário sua experiência, comportamentos e necessidades..                                                     |
