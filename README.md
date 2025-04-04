@@ -1,4 +1,4 @@
-<a><img align="justify" height="150" src="assets/logo-ufpr.png"></a>
+<a><img align="justify" height="100" src="assets/logo-ufpr.jpg"></a>
 
 # ufpr-repositorio-ux
 
@@ -6,7 +6,7 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 
 
 
-# ![UX](assets/logo-ux.png) User Experience - Unidade 1: Introdução ao UX 
+# ![UX](assets/logo-ux-dois.png) User Experience - Unidade 1: Introdução ao UX 
 
 - Disciplina que cria produtos e serviços que oferecem experiências significativas e satisfatórias para os usuário.
 
@@ -74,7 +74,8 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
     🏛️ `Acessibilidade, experiência do usuário, proteção de dados de uso.`
     🏛️ `Entregar a ideia objetiva ao usuário.`
 
-- Regras de ouro para o design de Interface
+- Regras de ouro para o design de Interface.
+
 🔍 `Não ter erros`
 🔍 `Fácil de usar`
 🔍 `Fácil de entender`
@@ -96,6 +97,7 @@ Uso para todos!
 A abordagem é fundamental no campo da experiência do usuário.
 
 - Necessidades e expectativas do usuário no centro do processo.
+
 🔍 `Especificar o contexto de uso`
 🔍 `Especificar os requisitos`
 🔍 `Criar soluções de projeto`
@@ -126,7 +128,7 @@ A abordagem é fundamental no campo da experiência do usuário.
 |`FeedBack amigáveis`    | Orientar usuário com notificações, mensagem de erro.
                                 
  
-# ![UX](assets/logo-ux.png) User Experience - Unidade 2: Compreensão do Usuário e Arquitetura de Informação
+# ![UX](assets/logo-ux-dois.png) User Experience - Unidade 2: Compreensão do Usuário e Arquitetura de Informação
 - Aspectos essenciais na Arquitetura do sistema
 - Experiência interativa e satisfatória para os usuários.
 
