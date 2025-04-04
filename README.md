@@ -158,7 +158,7 @@ A abordagem é fundamental no campo da experiência do usuário.
 
 ## Observação
 
- ## ![UX](assets/about.png) About
+# ![UX](assets/about.png) About
  Oi meu nome é Jonatha, resido em Londrina - PR, sou analista desenvolvedor de sistemas Java. Tenho graduação como Tecnólogo em Análse e Desenvolvimento de Sistemas na Unicesumar e atualmente faço uma pós graduação na Universidade Federal do Paraná em Metodologia Ágil de Software.
 
 
