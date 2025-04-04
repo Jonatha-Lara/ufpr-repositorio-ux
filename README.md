@@ -1,6 +1,6 @@
-<a><img align="justify" height="100" src="assets/logo-ufpr.jpg"></a>
+<a><img align="justify" height="80" src="assets/logo-ufpr.jpg"></a>
 
-# ufpr-repositorio-ux
+<a><img align="justify" height="80" src="assets/logo-ufpr.jpg"></a> # ufpr-repositorio-ux
 
 Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolvimento Ágil de Software.
 
