@@ -1,10 +1,12 @@
-# ufpr-repositorio-ux
+![UFPR-LOGO](assets/logo-ufpr.jpg)# ufpr-repositorio-ux
 
 Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolvimento Ágil de Software.
 
-# 🔭🤓User Experience - Unidade 1: Introdução ao UX 
+![UX](assets/logo-ux.png)
 
-- displicna que cria produtos e serviços que oferecem experiências significativas e satisfatórias para os usuário.
+# User Experience - Unidade 1: Introdução ao UX 
+
+- Disciplina que cria produtos e serviços que oferecem experiências significativas e satisfatórias para os usuário.
 
 - Objetivo de entender as necessidades e desejos dos usuários e, em seguida, projetar produtos que atendam essas necessidades de forma eficaz e agradável. 
 
@@ -15,7 +17,7 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 - Teste de usabilidade
 - Analise de métricas
 
-🛒 Produto intutivo: Fácil de usar, colaboração com partes, desenvolvedores, cliente (usuário), requisitos, stakeholders.
+🛒 Produto intuitivo: Fácil de usar, colaboração com partes, desenvolvedores, cliente (usuário), requisitos, stakeholders.
 
 🛒 Aplicação UX: Não apenas em apps ou web (produtos digitais), mas também em produtos físicos.
 
@@ -34,11 +36,11 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 
 ## Conceitos Psicológicos Funtamentais para Interação
 
-- `Recursos/Possibilidades:` o objetivo principal do produto ou aplitativo.
-- `Indicadores:` ajudar o usuário na ação que ele deve ser feita por ele.
-- `Restrições:` indicar os erros/advertencias para orientar o usuário no uso correto.
-- `Mapeamento:` o caminho do usuário para uma tarefa com o produto. Compararação da visão de desenvolvedor e usuário.
-- `FeedBack:` função que está realizando, o propósito/trabalho que o usuário esta trilhando.
+- `Recursos/Possibilidades:` O objetivo principal do produto ou aplicativo.
+- `Indicadores:` Ajudar o usuário na ação que ele deve ser feita por ele.
+- `Restrições:` Indicar os erros/advertências para orientar o usuário no uso correto.
+- `Mapeamento:` O caminho do usuário para uma tarefa com o produto. Compararação da visão de desenvolvedor e usuário.
+- `FeedBack:` Função que está realizando, o propósito/trabalho que o usuário esta trilhando.
 
 ## Importância do UX
 
@@ -56,7 +58,7 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 
 `1988 - Livro conceito de UX () "The Design of everyday Thinks"`
 
-- UX Metodologias sugidas (Donald Norman e Jakob Nilsen):
+- UX Metodologias surgidas (Donald Norman e Jakob Nilsen):
     - Thinking
     - Agile
 
@@ -66,7 +68,7 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 
 - Pilares Principais
     
-    🏛️ `Relação de usablidade e orgonomia.`
+    🏛️ `Relação de usabilidade e ergonomia.`
     🏛️ `Acessibilidade, experiência do usuário, proteção de dados de uso.`
     🏛️ `Entregar a ideia objetiva ao usuário.`
 
@@ -83,7 +85,7 @@ Uso para todos!
 | **Elemento**                | **Descrição**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
 | `Design Inclusivo`   | Considerar ampla necessidade e experiência do usuário desde o ínicio de processo.                                                     |
-|`Normas e Diretrizes`    | Oferecem orientações sobre como tornar produtos diitais acessiveis a deficientes por exemplo.                                 |
+|`Normas e Diretrizes`    | Oferecem orientações sobre como tornar produtos digitais acessíveis a deficientes por exemplo.                                 |
 |`Elementos Percebidos`    | Todos os usuários devem perceber o objetivo e uso do produto.                                   |
 |`Robustez`    | Operável, robusto e compreensível.                                   |
 
@@ -114,39 +116,35 @@ A abortagem é fundamental no campo da experiência do usuário.
 ❤️Conteúdo claro e consiso: Relevante
 | **Atributo de Boas Práticas**                | **Descrição**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
-| `Relevante`   | Objetivo de interesse e necessário aos usuários..                                                     |
-|`Sem exessos`    | Textos ou informações desnecessárias ou exageradas..                                   |
+| `Relevante`   | Objetivo de interesse e necessário aos usuários.                                                     |
+|`Sem exessos`    | Textos ou informações desnecessárias ou exageradas.                                  |
 |`Resposta rápida`    | Execussão, carregamentos ágeis da aplicação.                                   |
 |`Personalização`    | Usuários realizarem personalização, temas, opções de layout ou configurações de privacidade.                                   |
 |`Design responsivo`    | Experiência com vários tipos de desktops.                                   |
-|`FeedBack amigáveis`    | Orientar usuário com notificações, mensagem de erro.                                   |
-
-# 🔭🤓User Experience - Unidade 2: Compreensão do Usuário e Arquitetura de Informação
-- aspectos essenciais na Arquitetura do sistema
+|`FeedBack amigáveis`    | Orientar usuário com notificações, mensagem de erro.
+                                   |
+ 
+![UX](assets/logo-ux.png)
+# User Experience - Unidade 2: Compreensão do Usuário e Arquitetura de Informação
+- Aspectos essenciais na Arquitetura do sistema
 - Experiência interativa e satisfatória para os usuários.
 
 ## Métodos de Pesquisa
 🔍`Entrevistas`, 🔍`Questionários`, 🔍`Observações`,🔍`Pesquisas`
 
 - O metodo abordado depende do objetivo do projeto, recursos, estratégia, objetivos, desejável haver combinações de métodos (mais eficiente dos resultados) 
+| **Tipos de Métodos de Pesquisa**                | **Descrição**                                                                 |
+|---------------------------|---------------------------------------------------------------------------|
+| `Entrevistas Individuais:`   | Em profundidade com o usuário, entender próximo do usuário sua experiência, comportamentos e necessidades..                                                     |
+|`Grupos Locais (Focus Groups):`    | Reunir grupos de usuários para tópicos específicos, presumindo observar interações entre os participantes.                                |
+|`Observação Contextual:`    | Observar o usuário em seu ambiente natural de utilização do produto ou serviço.                                   |
+|`Teste de Usabilidade:`    | Avaliar a facilidade do produto ou serviço, observando e se possível gravando (ciência dos participantes e privacidade de dados).                                   |
+|`Questionários e Pesquisas on-line:`    | Desenvolver protótipos simples para obter feedback rápido e interativo.                                   |
+|`Prototipagem rápida e teste:`    | Utilizar dados do produto para entender padrões e comportamento.                                   |
+|`Analise de Dados:`    | Orientar usuário com notificações, mensagem de erro.                                   |
+|`Análise de comentários:`    | Analisar feedbacks em plataformas, redes sociais, comentários de ouvidoria do próprio serviço ou produto.                                  |
 
-### Entrevistas Individuais:
-- Em profundidade com o usuário, entender próximo do usuário sua experiência, comportamentos e necessidades.
 
-### Grupos Locais (Focus Groups):
-- Reunir grupos de usuários para tópicos específicos, presumindo observar interações entre os participantes.
-### Observação Contextual:
-- Observar o usuário em seu ambiente natural de utilização do produto ou serviço
-### Teste de Usabilidade:
-- Avaliar a facilidade do produto ou serviço, observando e se possível gravando (ciência dos participantes e privacidade de dados)
-### Questionários e Pesquisas on-line:
-- Coletar dados de uma amostra ampla de usuários, questionários estruturados.
-### Prototipagem rápida e teste:
-- Desenvolver protótipos simples para obter feedback rápido e interativo
-### Analise de Dados:
-- Utilizar dados do produto para entender padrões e comportamento.
-### Analise de comentários: 
-- Analisar feedbacks em plataformas, redes sociais, comentários de ouvidoria do próprio serviço ou produto 
 🛒` "Usar em conjusto melhor será o processo" `
 ## Entrevistas
 
