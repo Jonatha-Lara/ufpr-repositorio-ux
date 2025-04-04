@@ -1,4 +1,4 @@
-![UFPR-LOGO](assets/logo-ufpr.jpg)
+<img align="right" height="80" src="assets/logo-ufpr.png">
 # ufpr-repositorio-ux
 
 Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolvimento Ágil de Software.
@@ -123,9 +123,8 @@ A abordagem é fundamental no campo da experiência do usuário.
 |`Personalização`    | Usuários realizarem personalização, temas, opções de layout ou configurações de privacidade.                                   |
 |`Design responsivo`    | Experiência com vários tipos de desktops.                                   |
 |`FeedBack amigáveis`    | Orientar usuário com notificações, mensagem de erro.
-                                   |
+                                
  
-
 # ![UX](assets/logo-ux.png) User Experience - Unidade 2: Compreensão do Usuário e Arquitetura de Informação
 - Aspectos essenciais na Arquitetura do sistema
 - Experiência interativa e satisfatória para os usuários.
@@ -133,7 +132,8 @@ A abordagem é fundamental no campo da experiência do usuário.
 ## Métodos de Pesquisa
 🔍`Entrevistas`, 🔍`Questionários`, 🔍`Observações`,🔍`Pesquisas`
 
-- O método abordado depende do objetivo do projeto, recursos, estratégia, objetivos, desejável haver combinações de métodos (mais eficiente dos resultados) 
+- O método abordado depende do objetivo do projeto, recursos, estratégia, objetivos, desejável haver combinações de métodos (mais eficiente dos resultados).
+ 
 | **Tipos de Métodos de Pesquisa**                | **Descrição**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
 | `Entrevistas Individuais:`   | Em profundidade com o usuário, entender próximo do usuário sua experiência, comportamentos e necessidades..                                                     |
@@ -146,7 +146,7 @@ A abordagem é fundamental no campo da experiência do usuário.
 |`Análise de comentários:`    | Analisar feedbacks em plataformas, redes sociais, comentários de ouvidoria do próprio serviço ou produto.                                  |
 
 
-🛒` "Usar em conjusto melhor será o processo" `
+#### 🛒 "Usar em conjunto melhor será o processo!"
 ## Entrevistas
 
 ## Questionários
@@ -163,3 +163,17 @@ A abordagem é fundamental no campo da experiência do usuário.
 Java, Java Script, Html, CSS, React, Angular, PHP, Node.js, tomcat, Apache e Nginx, Shell, Bancos de dados Relacionais SQL, DB2, COBOL, API RestFull, midewares, UX Design, Pensamento Learn, Mapas Mentais, Testes Automatizados, Prototipação Figma, AWS, Azure, Kubbernetz, Docker, Integração Contínua, Entrega Contínua, trabalho em equipe, scrum, jira, git, gitHub, gitlab, gid (IBM), Arquitetura de sistemas, Engenharia de Software. 
 
 ![System Analyst](assets/portifolio-developer.png)
+
+<div align="center">
+<img height="200em" weight="180em" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"/>
+</div>
+
+<div align="center"> 
+<a href="https://www.instagram.com/jonsilveriolara/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:jonathalarasilverio@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jonatha-lara-silv%C3%A9rio-15b83b101/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ <br><br>
+
+ </div>
+ 
+<div style="display: inline_block"><br>
