@@ -103,17 +103,12 @@ A abordagem é fundamental no campo da experiência do usuário.
 🔍 `Criar soluções de projeto`
 🔍 `Avaliar o projeto`
 
-    1. Buscar compreensão profunda com o usuário.
-
-    2. Interação Contínua: Testadas e refinadas com colaboração do usuário.
-
-    3. Prototipagem rápida: Pode ser de baixa média ou alta fidelidade.
-    
-    4. Abordagem multidisciplinar: Colaboração entre disciplinas, design, desenvolvimento, pesquisa, marketing e outros stakeholders.
-
-    5. Ênfase de usabilidade.
-
-    6. Teste de usabilidade.
+    I. Buscar compreensão profunda com o usuário.
+    II. Interação Contínua: Testadas e refinadas com colaboração do usuário.
+    III. Prototipagem rápida: Pode ser de baixa média ou alta fidelidade.
+    IV. Abordagem multidisciplinar: Colaboração entre disciplinas, design, desenvolvimento, pesquisa, marketing e outros stakeholders.
+    V. Ênfase de usabilidade.
+    VI. Teste de usabilidade.
 
 ## Boas Práticas
 
