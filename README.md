@@ -167,19 +167,19 @@ A abordagem é fundamental no campo da experiência do usuário.
 - Forma de administração dos questionários.
  
  #### 🪝`"Qualidade das perguntas reflete a qualidade dos dados"`
-## Planejamento Execução do processo
+##### Planejamento Execução do processo
 
-- Defina objetivos.
-- Perguntas abertas.
-- Perguntas fechadas.
-- Direto e curto.
-- Linguagem simples.
-- Definir ordem das perguntas (sequência).
-- Informações demográficas.
-- Teste o questionário antes de aplicar.
-- Método de distribuição.
-- Garantir, anonimato e privacidade.
-- Analise os dados.  
+	I. Defina objetivos.
+	II. Perguntas abertas.
+	III. Perguntas fechadas.
+	IV. Direto e curto.
+	V. Linguagem simples.
+	VI. Definir ordem das perguntas (sequência).
+	VII. Informações demográficas.
+	VIII. Teste o questionário antes de aplicar.
+	IX. Método de distribuição.
+	X. Garantir, anonimato e privacidade.
+	XI. Analise os dados.`  
 
 ## Observação
 
