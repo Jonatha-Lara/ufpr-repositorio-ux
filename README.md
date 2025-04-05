@@ -183,10 +183,10 @@ A abordagem é fundamental no campo da experiência do usuário.
 
 ## Observação
 
-- Comportamento do usuário em seu ambiente natural de uso. Deve haver objertivo no que busca.
+- Comportamento do usuário em seu ambiente natural de uso. Deve haver objetivo no que busca.
 
 🔍`Contexto apropriado`, 🔍 `Ser discreto`, 🔍 `Fazer anotações detalhadas`, 🔍 `Ferramentas de suporte`
-- Multiplos participantes, prepara-se para surpresas!
+- Múltiplos participantes, prepara-se para surpresas!
 - Analise os dados de forma sistemática.
 # ![UX](assets/about.png) About
  Oi meu nome é Jonatha, resido em Londrina - PR, sou analista desenvolvedor de sistemas Java. Tenho graduação como Tecnólogo em Análse e Desenvolvimento de Sistemas na Unicesumar e atualmente faço uma pós graduação na Universidade Federal do Paraná em Metodologia Ágil de Software.
