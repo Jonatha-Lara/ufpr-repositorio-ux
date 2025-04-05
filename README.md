@@ -150,14 +150,44 @@ A abordagem é fundamental no campo da experiência do usuário.
 
 
 #### 🛒 "Usar em conjunto melhor será o processo!"
+
 ## Entrevistas
+- É uma feramenta valisosa, pode ser usada com outro métodos.
+#### 📢 Defina objetivos e selecione os participantes certos. 
+- Roteiro Flexível.
+- Estabelecer ambiente confortável.
+- Ouça atentamente.
+- Evite perguntas sugestivas.
+- Registre as informações.
+- Analise os dados.
 
 ## Questionários
-
+- Eficaz com grandes amostras.
+- Abrange mais pessoas interagindo com o método.
+- Forma de administração dos questionários.
+ 
+ #### 🪝`"Qualidade das perguntas reflete a qualidade dos dados"`
 ## Planejamento Execução do processo
+
+- Defina objetivos.
+- Perguntas abertas.
+- Perguntas fechadas.
+- Direto e curto.
+- Linguagem simples.
+- Definir ordem das perguntas (sequência).
+- Informações demográficas.
+- Teste o questionário antes de aplicar.
+- Método de distribuição.
+- Garantir, anonimato e privacidade.
+- Analise os dados.  
 
 ## Observação
 
+- Comportamento do usuário em seu ambiente natural de uso. Deve haver objertivo no que busca.
+
+🔍`Contexto apropriado`, 🔍 `Ser discreto`, 🔍 `Fazer anotações detalhadas`, 🔍 `Ferramentas de suporte`
+- Multiplos participantes, prepara-se para surpresas!
+- Analise os dados de forma sistemática.
 # ![UX](assets/about.png) About
  Oi meu nome é Jonatha, resido em Londrina - PR, sou analista desenvolvedor de sistemas Java. Tenho graduação como Tecnólogo em Análse e Desenvolvimento de Sistemas na Unicesumar e atualmente faço uma pós graduação na Universidade Federal do Paraná em Metodologia Ágil de Software.
 
