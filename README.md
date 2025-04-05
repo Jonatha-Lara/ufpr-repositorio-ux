@@ -179,7 +179,7 @@ A abordagem é fundamental no campo da experiência do usuário.
 	VIII. Teste o questionário antes de aplicar.
 	IX. Método de distribuição.
 	X. Garantir, anonimato e privacidade.
-	XI. Analise os dados.`  
+	XI. Analise os dados.  
 
 ## Observação
 
