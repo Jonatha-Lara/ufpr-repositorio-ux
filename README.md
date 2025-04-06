@@ -189,6 +189,7 @@ A abordagem é fundamental no campo da experiência do usuário.
 | **Descrição**                | **Link**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
 | `Introdução UX: Código Fonte (YouTube)`   | https://www.youtube.com/watch?v=U1kKWqlfxnk                                                     |
+|`Certificado Profissional de Design de UX no Google`    | https://www.coursera.org/professional-certificates/google-ux-design/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_latam_google-ux-design_google_ftcof_professional-certificates_px_dr_tt_gg_sem_pr-bd_br_pt_m_hyb_25-03_x&campaignid=22334269645&adgroupid=179166404111&device=c&keyword=ux%20design&matchtype=b&network=g&devicemodel=&creativeid=738346222718&assetgroupid=&targetid=kwd-4993559180&extensionid=&placement=&gad_source=1&gclid=CjwKCAjwzMi_BhACEiwAX4YZUOWjYDtQwWxvB7Y_kHCiN0ZS6ZwWdm9iQXb8IXdnQv-V3gSUdoB9uBoChi4QAvD_BwE                                |
 |`Mapa Mental Grátis`    | https://www.edrawsoft.com/ad/edrawmind-mind-map.html?gad_source=1&gclid=Cj0KCQjwhr6_BhD4ARIsAH1YdjCvNeCJaE4u29hF3VoQWIJeUVLGOW6u9yw_q1qXP2MX2N1xhQUpf24aAn59EALw_wcB                                |
 |`Figma`    | https://www.figma.com/                                |
 
