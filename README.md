@@ -184,6 +184,8 @@ A abordagem é fundamental no campo da experiência do usuário.
 - Múltiplos participantes, prepara-se para surpresas!
 - Analise os dados de forma sistemática.
 
+[ Loading...]
+
 # Links Úteis
 
 | **Descrição**                | **Link**                                                                 |
