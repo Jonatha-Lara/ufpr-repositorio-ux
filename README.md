@@ -186,26 +186,26 @@ A abordagem é fundamental no campo da experiência do usuário.
 
 # Personas e Jornada do Usuário
 ## Personas 
-- Representações fictícias com base em dados reais e pesquisas com usuário.
-- Compreender comportamento, usos e motivações do consumidor final.
+👔 Representações fictícias com base em dados reais e pesquisas com usuário.
+👔 Compreender comportamento, usos e motivações do consumidor final.
 
 ## Pesquisa com Usuário final
 
-Coletar dados sobre:
+🔸️Coletar dados sobre:
 - Características demográficas.
 - Comportamentos.
 - Necessidades.
 - Objetivos.
 
 ## Identificar Padrões
-Análise dos dados para:
+🔸️Análise dos dados para:
 - Identificação de padrões do usuário
 - Tendências.
 - Insights.
 - Pode agrupar usuários com características semelhantes (idade, sexo...)
 
 ## Definição de Personas
-Com base nos dados coletados com usuários finais:
+🔸️Com base nos dados coletados com usuários finais:
 - Representar diferentes segmentos.
 - Deve possuir um nome.
 - Deve possuir uma foto (imagem representativa).
@@ -217,9 +217,9 @@ Com base nos dados coletados com usuários finais:
 - Haver validação com equipe e stakeholders.
 
 ## Uso contínuo de personas
-- Ser referência a longo prazo.
-- Viver no percurso do processo.
-- Tomada de decisão centrada no usuário.
+`Ser referência a longo prazo.
+Viver no percurso do processo.
+Tomada de decisão centrada no usuário.`
 
 ## Exemplo de Personas:
 
@@ -227,9 +227,9 @@ Com base nos dados coletados com usuários finais:
 
 # Jornada do Usuário
 
-- Representações visuais do caminho percorrido pelo usuário ao longo do processo.
-- Entender o usuário em diferentes etapas.
-- Oportunidade de melhorias.
+🛳 Representações visuais do caminho percorrido pelo usuário ao longo do processo.
+🛳 Entender o usuário em diferentes etapas.
+🛳 Oportunidade de melhorias.
 
 | Identificação dos estágios da Jornada |
 |-----------------------------------------------|
@@ -245,8 +245,6 @@ Com base nos dados coletados com usuários finais:
 | `Criar representações visuais` |
 | `Interação e compartilhamento` |
 | `Uso como guia de design e desenvolvimento` |
-
-[Loading...] 
 
 ## Identificar Estágios da Jornada
 
