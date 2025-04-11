@@ -223,7 +223,7 @@ Com base nos dados coletados com usuários finais:
 
 ## Exemplo de Personas:
 
-[UX](assets/personas.png)
+![UX](assets/personas.png)
 
 # Jornada do Usuário
 
