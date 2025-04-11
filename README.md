@@ -184,6 +184,75 @@ A abordagem é fundamental no campo da experiência do usuário.
 - Múltiplos participantes, prepara-se para surpresas!
 - Analise os dados de forma sistemática.
 
+# Personas e Jornada do Usuário
+## Personas 
+- Representações fictícias com base em dados reais e pesquisas com usuário.
+- Compreender comportamento, usos e motivações do consumidor final.
+
+## Pesquisa com Usuário final
+
+Coletar dados sobre:
+- Características demográficas.
+- Comportamentos.
+- Necessidades.
+- Objetivos.
+
+## Identificar Padrões
+Análise dos dados para:
+- Identificação de padrões do usuário
+- Tendências.
+- Insights.
+- Pode agrupar usuários com características semelhantes (idade, sexo...)
+
+## Definição de Personas
+Com base nos dados coletados com usuários finais:
+- Representar diferentes segmentos.
+- Deve possuir um nome.
+- Deve possuir uma foto (imagem representativa).
+- Características demográficas.
+- Descrição detalhadas de suas necessidades.
+- Objetivo.
+- Padrões comportamentais.
+- Preferencias.
+- Haver validação com equipe e stakeholders.
+
+## Uso contínuo de personas
+- Ser referência a longo prazo.
+- Viver no percurso do processo.
+- Tomada de decisão centrada no usuário.
+
+## Exemplo de Personas:
+
+[UX](assets/personas.png)
+
+# Jornada do Usuário
+
+- Representações visuais do caminho percorrido pelo usuário ao longo do processo.
+- Entender o usuário em diferentes etapas.
+- Oportunidade de melhorias.
+
+| Identificação dos estágios da Jornada |
+|-----------------------------------------------|
+| `Determinar os estágios (etapas)` |
+| `Descobertas` |
+| `Uso` |
+| `Suporte` |
+| `Considerações` |
+| `Retenção` |
+| `Personas diferentes/Jornadas diferentes` |
+| `Ações e emoções do usuário` |
+| `Identificar atritos e oportunidades ` |
+| `Criar representações visuais` |
+| `Interação e compartilhamento` |
+| `Uso como guia de design e desenvolvimento` |
+
+[Loading...] 
+
+## Identificar Estágios da Jornada
+
+
+
+
 [ Loading...]
 
 # Links Úteis
