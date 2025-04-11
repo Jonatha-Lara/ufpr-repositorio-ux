@@ -187,6 +187,7 @@ A abordagem é fundamental no campo da experiência do usuário.
 # Personas e Jornada do Usuário
 ## Personas 
 👔 Representações fictícias com base em dados reais e pesquisas com usuário.
+
 👔 Compreender comportamento, usos e motivações do consumidor final.
 
 ## Pesquisa com Usuário final
@@ -228,7 +229,9 @@ Tomada de decisão centrada no usuário.`
 # Jornada do Usuário
 
 🛳 Representações visuais do caminho percorrido pelo usuário ao longo do processo.
+
 🛳 Entender o usuário em diferentes etapas.
+
 🛳 Oportunidade de melhorias.
 
 | Identificação dos estágios da Jornada |
