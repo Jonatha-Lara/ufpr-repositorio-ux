@@ -298,7 +298,7 @@ Tomada de decisão centrada no usuário.`
 | `Teste de usabilidade.` |
 | `Ajustes necessários sempre.` |
 
-#Hierarquia de Informação
+# Hierarquia de Informação
 
 🪝 Organização e Priorização de conteúdo para interface, melhora a compreensão de uso do usuário.
 
