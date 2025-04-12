@@ -16,8 +16,8 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 
 - Pesquisa de usuário.
 - Prototipagem.
-- Teste de usabilidade
-- Analise de métricas
+- Teste de usabilidade.
+- Analise de métricas.
 
 🛒 Produto intuitivo: Fácil de usar, colaboração com partes, desenvolvedores, cliente (usuário), requisitos, stakeholders.
 
@@ -98,10 +98,10 @@ A abordagem é fundamental no campo da experiência do usuário.
 
 - Necessidades e expectativas do usuário no centro do processo.
 
-🔍 `Especificar o contexto de uso`
-🔍 `Especificar os requisitos`
-🔍 `Criar soluções de projeto`
-🔍 `Avaliar o projeto`
+🔍 `Especificar o contexto de uso.`
+🔍 `Especificar os requisitos.`
+🔍 `Criar soluções de projeto.`
+🔍 `Avaliar o projeto.`
 
     I. Buscar compreensão profunda com o usuário.
     II. Interação Contínua: Testadas e refinadas com colaboração do usuário.
@@ -134,7 +134,7 @@ A abordagem é fundamental no campo da experiência do usuário.
  
 | **Tipos de Métodos de Pesquisa**                | **Descrição**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
-| `Entrevistas Individuais:`   | Em profundidade com o usuário, entender próximo do usuário sua experiência, comportamentos e necessidades..                                                     |
+| `Entrevistas Individuais:`   | Em profundidade com o usuário, entender próximo do usuário sua experiência, comportamentos e necessidades.                                                     |
 |`Grupos Locais (Focus Groups):`    | Reunir grupos de usuários para tópicos específicos, presumindo observar interações entre os participantes.                                |
 |`Observação Contextual:`    | Observar o usuário em seu ambiente natural de utilização do produto ou serviço.                                   |
 |`Teste de Usabilidade:`    | Avaliar a facilidade do produto ou serviço, observando e se possível gravando (ciência dos participantes e privacidade de dados).                                   |
@@ -200,7 +200,7 @@ A abordagem é fundamental no campo da experiência do usuário.
 
 ## Identificar Padrões
 🔸️Análise dos dados para:
-- Identificação de padrões do usuário
+- Identificação de padrões do usuário.
 - Tendências.
 - Insights.
 - Pode agrupar usuários com características semelhantes (idade, sexo...)
@@ -236,18 +236,18 @@ Tomada de decisão centrada no usuário.`
 
 | Identificação dos estágios da Jornada |
 |-----------------------------------------------|
-| `Determinar os estágios (etapas)` |
-| `Descobertas` |
-| `Uso` |
-| `Suporte` |
-| `Considerações` |
-| `Retenção` |
-| `Personas diferentes/Jornadas diferentes` |
-| `Ações e emoções do usuário` |
-| `Identificar atritos e oportunidades ` |
-| `Criar representações visuais` |
-| `Interação e compartilhamento` |
-| `Uso como guia de design e desenvolvimento` |
+| `Determinar os estágios (etapas).` |
+| `Descobertas.` |
+| `Uso.` |
+| `Suporte.` |
+| `Considerações.` |
+| `Retenção.` |
+| `Personas diferentes/Jornadas diferentes.` |
+| `Ações e emoções do usuário.` |
+| `Identificar atritos e oportunidades.` |
+| `Criar representações visuais.` |
+| `Interação e compartilhamento.` |
+| `Uso como guia de design e desenvolvimento.` |
 
 ## Análise de Tarefas
 
@@ -269,34 +269,34 @@ Tomada de decisão centrada no usuário.`
 
 | Diretrizes e Práticas |
 |-----------------------------------------------|
-| `Primeiro entender o usuário e suas necessidades` |
-| `Como usuários interagem com o sistema` |
-| `Organização de forma relevante e útil` |
-| `Navegar no fluxo ponto-a-ponto` |
-| `Hierarquia de informações` |
-| `Agrupar em categorias ou tópicos` |
-| `Manter consistência visual (semântica)` |
-| `Testes de usabilidade` |
-| `Atento a todos os feedbacks` |
-| `Criar representações visuais` |
-| `Adaptabilidade` |
-| `Responsivo (UX Responsive)` |
+| `Primeiro entender o usuário e suas necessidades.` |
+| `Como usuários interagem com o sistema.` |
+| `Organização de forma relevante e útil.` |
+| `Navegar no fluxo ponto-a-ponto.` |
+| `Hierarquia de informações.` |
+| `Agrupar em categorias ou tópicos.` |
+| `Manter consistência visual (semântica).` |
+| `Testes de usabilidade.` |
+| `Atento a todos os feedbacks.` |
+| `Criar representações visuais.` |
+| `Adaptabilidade.` |
+| `Responsivo (UX Responsive).` |
 
 ## Estrutura de Navegação
 🔸️ Maneira que os usuários se movem dentro do sistema. Aplique práticas:
 
 | Práticas para boa estrutura de Navegação|
 |-----------------------------------------------|
-| `Menu de navegação` |
-| `Hierarquia clara e fácil de entender` |
-| `Navegação por breadcrumb` |
-| `Barra de busca/pesquisa robusta` |
-| `Links contextuais relacionados` |
-| `Filtros e Tags` |
-| `Elementos visuais e ícones` |
-| `Adaptável a dispositivos moveis` |
-| `Teste de usabilidade` |
-| `Ajustes necessários sempre` |
+| `Menu de navegação`. |
+| `Hierarquia clara e fácil de entender.` |
+| `Navegação por breadcrumb.` |
+| `Barra de busca/pesquisa robusta.` |
+| `Links contextuais relacionados.` |
+| `Filtros e Tags.` |
+| `Elementos visuais e ícones.` |
+| `Adaptável a dispositivos moveis.` |
+| `Teste de usabilidade.` |
+| `Ajustes necessários sempre.` |
 
 
 # ![UX](assets/logo-ux-dois.png) User Experience - Unidade 3: Técnicas de UX e Design de Interface do Usuário (UI)
