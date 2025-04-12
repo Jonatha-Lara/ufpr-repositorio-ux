@@ -336,7 +336,6 @@ VI. Reservar espaços no layout para elementos como fotos, vídeos, logos, ícon
 
 VII. Há Ferramentas para usar, ou pode ser feito a punho.` 
 
-`
 # ![UX](assets/logo-ux-dois.png) User Experience - Unidade 3: Técnicas de UX e Design de Interface do Usuário (UI)
 
 
