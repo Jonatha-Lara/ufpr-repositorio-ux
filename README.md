@@ -322,12 +322,18 @@ Tomada de decisão centrada no usuário.`
 
 🎨 São representações técnicas de uma página web usadas no design de UX.
 
-'I. Layout simples.
+`I. Layout simples.
+
 II. Mostra a estrutura de layout (o primeiro passo).
+
 III. Planejamento do layout, distribuição dos elementos.
+
 IV. Forma eficaz de comunicar ideias.
+
 V. Podem ser mais complexos.
+
 VI. Reservar espaços no layout para elementos como fotos, vídeos, logos, ícones mais elaborados, gifs ou propagandas.
+
 VII. Há Ferramentas para usar, ou pode ser feito a punho.` 
 
 `
