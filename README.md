@@ -298,7 +298,39 @@ Tomada de decisão centrada no usuário.`
 | `Teste de usabilidade` |
 | `Ajustes necessários sempre` |
 
+#Hierarquia de Informação
 
+🪝 Organização e Priorização de conteúdo para interface, melhora a compreensão de uso do usuário.
+
+🪝 Identifique os objetivos do usuário.
+
+🪝 Defina os principais elementos de navegação.
+
+🪝 Use estrutura de Árvore.
+
+🪝 Cabeçalhos e títulos auto descritivos.
+
+🪝 Priorize o conteúdo relevante ao interesse do usuário.
+
+🪝 Manter consistência visual (semântica).
+
+🪝 Utilize espaçamentos coerentes, agrupamentos de informações coerentes.
+
+🪝 Testar e iterar.
+
+# Wireframes
+
+🎨 São representações técnicas de uma página web usadas no design de UX.
+
+'I. Layout simples.
+II. Mostra a estrutura de layout (o primeiro passo).
+III. Planejamento do layout, distribuição dos elementos.
+IV. Forma eficaz de comunicar ideias.
+V. Podem ser mais complexos.
+VI. Reservar espaços no layout para elementos como fotos, vídeos, logos, ícones mais elaborados, gifs ou propagandas.
+VII. Há Ferramentas para usar, ou pode ser feito a punho.` 
+
+`
 # ![UX](assets/logo-ux-dois.png) User Experience - Unidade 3: Técnicas de UX e Design de Interface do Usuário (UI)
 
 
