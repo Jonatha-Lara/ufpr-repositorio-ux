@@ -249,9 +249,57 @@ Tomada de decisão centrada no usuário.`
 | `Interação e compartilhamento` |
 | `Uso como guia de design e desenvolvimento` |
 
-## Identificar Estágios da Jornada
+## Análise de Tarefas
+
+ - Detalhamento das atividades que o usuário precisa para interagir com o produto.
+ - Garantir que atenda os objetivos.
+ - Identificação do usuário.
+ - Mapeamento de fluxo de tarefas (fluxograma).
+ - Identificação de pontos de dor.
+ - Oportunidade de melhoria.
+ - Considere o contexto sempre, ambiente, momento de uso.
+ - Teste de interação (pode ser usado as personas).
+ - Ajuste o que for necessário.
+ - Documentação e comunicação (auditoria de mudanças e decisões no fluxograma).
+
+ # Organização do Conteúdo e Estruturas de Navegação
+ ## Organização de conteúdo
+
+🔸️ Usado na criação das interfaces.
+
+| Diretrizes e Práticas |
+|-----------------------------------------------|
+| `Primeiro entender o usuário e suas necessidades` |
+| `Como usuários interagem com o sistema` |
+| `Organização de forma relevante e útil` |
+| `Navegar no fluxo ponto-a-ponto` |
+| `Hierarquia de informações` |
+| `Agrupar em categorias ou tópicos` |
+| `Manter consistência visual (semântica)` |
+| `Testes de usabilidade` |
+| `Atento a todos os feedbacks` |
+| `Criar representações visuais` |
+| `Adaptabilidade` |
+| `Responsivo (UX Responsive)` |
+
+## Estrutura de Navegação
+🔸️ Maneira que os usuários se movem dentro do sistema. Aplique práticas:
+
+| Práticas para boa estrutura de Navegação|
+|-----------------------------------------------|
+| `Menu de navegação` |
+| `Hierarquia clara e fácil de entender` |
+| `Navegação por breadcrumb` |
+| `Barra de busca/pesquisa robusta` |
+| `Links contextuais relacionados` |
+| `Filtros e Tags` |
+| `Elementos visuais e ícones` |
+| `Adaptável a dispositivos moveis` |
+| `Teste de usabilidade` |
+| `Ajustes necessários sempre` |
 
 
+# ![UX](assets/logo-ux-dois.png) User Experience - Unidade 3: Técnicas de UX e Design de Interface do Usuário (UI)
 
 
 [ Loading...]
