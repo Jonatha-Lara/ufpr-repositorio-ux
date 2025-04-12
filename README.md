@@ -140,8 +140,8 @@ A abordagem é fundamental no campo da experiência do usuário.
 |`Teste de Usabilidade:`    | Avaliar a facilidade do produto ou serviço, observando e se possível gravando (ciência dos participantes e privacidade de dados).                                   |
 |`Questionários e Pesquisas on-line:`    | Desenvolver protótipos simples para obter feedback rápido e interativo.                                   |
 |`Prototipagem rápida e teste:`    | Utilizar dados do produto para entender padrões e comportamento.                                   |
-|`Analise de Dados:`    | Orientar usuário com notificações, mensagem de erro.                                   |
-|`Análise de comentários:`    | Analisar feedbacks em plataformas, redes sociais, comentários de ouvidoria do próprio serviço ou produto.                                  |
+|`Analise os Dados:`    | Orientar usuário com notificações, mensagem de erro.                                   |
+|`Analise os comentários:`    | Analisar feedbacks em plataformas, redes sociais, comentários de ouvidoria do próprio serviço ou produto.                                  |
 
 
 #### 🛒 "Usar em conjunto melhor será o processo!"
