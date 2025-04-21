@@ -446,7 +446,7 @@ VI. Reservar espaços no layout para elementos como fotos, vídeos, logos, ícon
 - Consistência, espaços iguais quando elementos iguais.
 - Flexível e adaptável.
 
-# ![UX](assets/logo-ux-dois.png) User Experience - Unidade 4: [ Loading... ]
+# ![UX](assets/logo-ux-dois.png) User Experience - Unidade 4: Prototipagem
 
  [ Loading... ]
 
