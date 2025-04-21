@@ -380,6 +380,10 @@ VII. Há Ferramentas para usar, ou pode ser feito a punho.
 
 - Ajustes de resolução, capacidades de entrada e contexto do usuário.
 
+### Personalização com base no Conteúdo
+
+- Levar em consideração a localização, hora do dia e tipo do dispositivo usado.
+
 ## Animações e Microinterações
 
 - Nível de feedback e atratividade do usuário.
