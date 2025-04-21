@@ -322,19 +322,19 @@ Tomada de decisão centrada no usuário.`
 
 🎨 São representações técnicas de uma página web usadas no design de UX.
 
-I. Layout simples.
+`I. Layout simples.`
 
 II. Mostra a estrutura de layout (o primeiro passo).
 
-III. Planejamento do layout, distribuição dos elementos.
+`III. Planejamento do layout, distribuição dos elementos.`
 
 IV. Forma eficaz de comunicar ideias.
 
-V. Podem ser mais complexos.
+`V. Podem ser mais complexos.`
 
-VI. Reservar espaços no layout para elementos como fotos, vídeos, logos, ícones mais elaborados, gifs ou propagandas.
+VI. Reservar espaços no layout para elementos como fotos, vídeos, logos, ícones mais elaborados, gifs ou propagandas.`
 
-VII. Há Ferramentas para usar, ou pode ser feito a punho. 
+`VII. Há Ferramentas para usar, ou pode ser feito a punho.` 
 
 # ![UX](assets/logo-ux-dois.png) User Experience - Unidade 3: Técnicas de UX e Design de Interface do Usuário (UI)
 
@@ -366,29 +366,29 @@ VII. Há Ferramentas para usar, ou pode ser feito a punho.
 
 ### Navegação Interativa
 
-- Menus e navegação são projetados para serem fáceis e intuitivos.
+🔺 Menus e navegação são projetados para serem fáceis e intuitivos.
 
 ### Performance Otimizada
 
-- Ser ágil e rápido nos carregamentos e transições de uma ação
+🔺 Ser ágil e rápido nos carregamentos e transições de uma ação.
 
 ### Testes e Interação Contínua
 
-- Testar e iterar constantemente em diferentes dispositivos.
+🔺 Testar e iterar constantemente em diferentes dispositivos.
 
 ### Design Adaptativo
 
-- Ajustes de resolução, capacidades de entrada e contexto do usuário.
+🔺 Ajustes de resolução, capacidades de entrada e contexto do usuário.
 
 ### Personalização com base no Conteúdo
 
-- Levar em consideração a localização, hora do dia e tipo do dispositivo usado.
+🔺 Levar em consideração a localização, hora do dia e tipo do dispositivo usado.
 
 ## Animações e Microinterações
 
-- Nível de feedback e atratividade do usuário.
+`Nível de feedback e atratividade do usuário.`
 
-### Animações
+### 🐶 Animações
 
 - Usar com moderação.
 - Feedback instantâneo.
@@ -399,7 +399,7 @@ VII. Há Ferramentas para usar, ou pode ser feito a punho.
 - Personalidade e diferenciação dos concorrentes.
 - Reduz cargas cognitivas dos usuários.
 
-### Microinterações
+### 🐶 Microinterações
 
 - Pequenos detalhes interativos do design.
 - Elementos de interação.
@@ -429,31 +429,21 @@ VII. Há Ferramentas para usar, ou pode ser feito a punho.
 
 ## Grids e Layouts
 
-### Grids
+### 🎠Grids
 - Grades que integram o espaço, limitando o espaço dos elementos e demarcando espaços em branco.
-
 - Google Material Design tem sugestões de grids: https://material.io 
-
 - Cria-se uma consistência visual.
-
 - Alinhamento preciso.
-
 - Flexibilidade de design e hierarquia.
-
 - O grid pode se adaptar, responsiva.
-
 - Facilidade em manutenção.
 
-### Layouts
+### 🎠Layouts
 
 - Onde cada elemento deve se encaixar com base no grid.
-
 - Reflete a hierarquia das informações.
-
 - Organização lógica dos elementos e definição de estrutura.
-
 - Consistência, espaços iguais quando elementos iguais.
-
 - Flexível e adaptável.
 
 # ![UX](assets/logo-ux-dois.png) User Experience - Unidade 4: [ Loading... ]
