@@ -322,19 +322,139 @@ Tomada de decisão centrada no usuário.`
 
 🎨 São representações técnicas de uma página web usadas no design de UX.
 
-'I. Layout simples.
-II. Mostra a estrutura de layout (o primeiro passo).
-III. Planejamento do layout, distribuição dos elementos.
-IV. Forma eficaz de comunicar ideias.
-V. Podem ser mais complexos.
-VI. Reservar espaços no layout para elementos como fotos, vídeos, logos, ícones mais elaborados, gifs ou propagandas.
-VII. Há Ferramentas para usar, ou pode ser feito a punho.` 
+I. Layout simples.
 
-`
+II. Mostra a estrutura de layout (o primeiro passo).
+
+III. Planejamento do layout, distribuição dos elementos.
+
+IV. Forma eficaz de comunicar ideias.
+
+V. Podem ser mais complexos.
+
+VI. Reservar espaços no layout para elementos como fotos, vídeos, logos, ícones mais elaborados, gifs ou propagandas.
+
+VII. Há Ferramentas para usar, ou pode ser feito a punho. 
+
 # ![UX](assets/logo-ux-dois.png) User Experience - Unidade 3: Técnicas de UX e Design de Interface do Usuário (UI)
 
+## Princípios do Design de Interação
 
-[ Loading...]
+- Diretrizes fundamentais seguido pelo UX Design de interação para melhor entrega na experiência do usuário.
+
+| **Elemento**                | **Descrição**                                                                 |
+|---------------------------|---------------------------------------------------------------------------|
+|`Feedback imediato:` | Usuário deve ter suas ações reconhecidas e compreendidas. |
+| `Consistência:` | Padrão nos elementos, fontes, cores de forma que o usuário possa prever o vai acontecer caso realize aquela ação determinada. |
+| `Visibilidade:` | O que mais relevante e importante em destaque, fácil acesso. |
+| `Mapeamento:` | Os controles do usuário deve se alinhar claramente com o resultado esperado. |
+| `Flexibilidade e eficiência de uso:` | Acomodar diferentes níveis de habilidades, tanto o usuário iniciante como um avançado. |
+| `Prevenção de erro:` | Projetar para evitar erros, de forma que oriente o usuário no uso. |
+| `Design centrado no usuário:` | Criar experiência que atendam a expectativa do usuário. |
+| `Affordances:` | Os Elementos devem seguir a ideia do qual quer propor, um botão clicavel, deve parecer clicavel. |
+| `Contextualização Clara:` | Funcionalidade e conceito claro e compreensível, de fácil uso. |
+| `Acessibilidade:` | Atender a vários tipos de usuário. |
+
+## Design Responsivo e Adaptativo
+🐕 Se Adaptar em diferentes dispositivos.
+
+🐕 Interagir com o conteúdo de forma eficaz independente do tipo de dispositivo.
+
+🐕 Elementos mais importantes são destacados e visíveis.
+
+🐕 Conteúdos menos relevantes são reduzidos, adaptados para se readequar conforme o dispositivo usado.
+
+### Navegação Interativa
+
+- Menus e navegação são projetados para serem fáceis e intuitivos.
+
+### Performance Otimizada
+
+- Ser ágil e rápido nos carregamentos e transições de uma ação
+
+### Testes e Interação Contínua
+
+- Testar e iterar constantemente em diferentes dispositivos.
+
+### Design Adaptativo
+
+- Ajustes de resolução, capacidades de entrada e contexto do usuário.
+
+## Animações e Microinterações
+
+- Nível de feedback e atratividade do usuário.
+
+### Animações
+
+- Usar com moderação.
+- Feedback instantâneo.
+- Orientar o usuário que ação está sendo realizada.
+- Transição com fluidez.
+- Status atual do aplicativo.
+- Aumenta o engajamento com o produto.
+- Personalidade e diferenciação dos concorrentes.
+- Reduz cargas cognitivas dos usuários.
+
+### Microinterações
+
+- Pequenos detalhes interativos do design.
+- Elementos de interação.
+- Devem ser sutil e relevantes no contexto.
+- Feedback imediato.
+- Destacar a interatividade.
+
+## Fundamentos do Design Visual
+
+🎨 Hierarquia Visual: Destacar o que é mais relevante e importante.
+
+🎨 Equilíbrio: Elementos distribuídos de forma organizada.
+
+🎨 Espaços em branco: Manter coerência entre os espaços, usar medidas parecidas para elementos do mesmo contexto.
+
+🎨 Consistência: Manter fidelidade dos estilos usados.
+
+🎨 Tipografia: Tipos de fontes e seus tamanhos adequados, harmônicos e consistentes.
+
+🎨 Cores: Criar atmosfera coesa.
+
+🎨 Acessibilidade: Garantir acessibilidade a vários tipos de usuários.
+
+🎨 Iconográfica: Usar ícones intuitivos e harmônico com o contexto e elementos.
+
+🎨 Feedback Visual: Usuário entendendo o que está acontecendo durante o uso.
+
+## Grids e Layouts
+
+### Grids
+- Grades que integram o espaço, limitando o espaço dos elementos e demarcando espaços em branco.
+
+- Google Material Design tem sugestões de grids: https://material.io 
+
+- Cria-se uma consistência visual.
+
+- Alinhamento preciso.
+
+- Flexibilidade de design e hierarquia.
+
+- O grid pode se adaptar, responsiva.
+
+- Facilidade em manutenção.
+
+### Layouts
+
+- Onde cada elemento deve se encaixar com base no grid.
+
+- Reflete a hierarquia das informações.
+
+- Organização lógica dos elementos e definição de estrutura.
+
+- Consistência, espaços iguais quando elementos iguais.
+
+- Flexível e adaptável.
+
+# ![UX](assets/logo-ux-dois.png) User Experience - Unidade 4: [ Loading... ]
+
+ [ Loading... ]
 
 # Links Úteis
 
