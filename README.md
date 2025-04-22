@@ -465,17 +465,17 @@ Ferramentas usadas para realizar prototipagem:
 
 - É uma linguagem visual sugerida pelo Google.
 - Nas guidelines são sugeridos elementos:
+
 🔍 De Navegação. 🔍 Cores. 🔍 Tipografia. 🔍 Ícones. 🔍 Fontes.
 
-- site: https://material.io
+Site: https://material.io
 
 ### Bootstrap
 
 - Ferramenta gratuita e open source CSS de prototipagem.
 - Modelos baseados em, CSS, Html e JavaScript.
 - Instalável no desktop.
-
-- Site: https://www.bootstrap.com
+Site: https://www.bootstrap.com
 ### Figma
 
 - Ferramenta de prototipagem.
@@ -484,8 +484,7 @@ Ferramentas usadas para realizar prototipagem:
 - Variedade de editores gráficos vetoriais.
 - Protótipos clicáveis.
 - Equipes trabalhando ao mesmo tempo.
-
-- Site: https://www.figma.com/
+Site: https://www.figma.com/
 ### Adoble XD
 
 - Ferramenta de prototipagem paga.
@@ -495,8 +494,8 @@ Ferramentas usadas para realizar prototipagem:
 - Protótipos Clicáveis.
 - Pode ser compartilhado em Nuvem.
 - Equipes trabalhando ao mesmo tempo.
+Site: https://helpx.adobe.com/br/xd/get-started.html
 
-- Site: https://helpx.adobe.com/br/xd/get-started.html
 ### Just in Mind
 
 - Ferramenta de prototipagem paga (teste de 7 dias grátis).
@@ -521,8 +520,10 @@ Site: https://www.justinmind.com
 |`Certificado Profissional de Design de UX no Google`    | https://www.coursera.org/professional-certificates/google-ux-design/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_latam_google-ux-design_google_ftcof_professional-certificates_px_dr_tt_gg_sem_pr-bd_br_pt_m_hyb_25-03_x&campaignid=22334269645&adgroupid=179166404111&device=c&keyword=ux%20design&matchtype=b&network=g&devicemodel=&creativeid=738346222718&assetgroupid=&targetid=kwd-4993559180&extensionid=&placement=&gad_source=1&gclid=CjwKCAjwzMi_BhACEiwAX4YZUOWjYDtQwWxvB7Y_kHCiN0ZS6ZwWdm9iQXb8IXdnQv-V3gSUdoB9uBoChi4QAvD_BwE                                |
 |`Mapa Mental Grátis`    | https://www.edrawsoft.com/ad/edrawmind-mind-map.html?gad_source=1&gclid=Cj0KCQjwhr6_BhD4ARIsAH1YdjCvNeCJaE4u29hF3VoQWIJeUVLGOW6u9yw_q1qXP2MX2N1xhQUpf24aAn59EALw_wcB                                |
 |`Tutorial Figma`    | [ Loading...]                                |
-|`Figma`    | https://www.figma.com/                                |
-
+|`Google Material`    | https://material.io/                                |
+|`Bootstrap`    | https://www.bootstrap.com                                |
+|`Adoble UX`    | https://helpx.adobe.com/br/xd/get-started.html                                |
+|`Just in Mind`    | https://www.justinmind.com |
 
 
 
