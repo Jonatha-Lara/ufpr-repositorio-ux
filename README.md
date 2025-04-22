@@ -448,7 +448,70 @@ VI. Reservar espaços no layout para elementos como fotos, vídeos, logos, ícon
 
 # ![UX](assets/logo-ux-dois.png) User Experience - Unidade 4: Prototipagem
 
- [ Loading... ]
+- Permite que o Design crie teste rapidamente da ideia e conceito da aplicação.
+- Escolher as ferramentas certar de acordo com a necessidade.
+
+## Ferramentas de Prototipagem 
+
+Ferramentas usadas para realizar prototipagem:
+
+- Material Design. 
+- Bootstrap.
+- Figma.
+- Adoble XD.
+- Just in mind.
+
+### Material Design
+
+- É uma linguagem visual sugerida pelo Google.
+- Nas guidelines são sugeridos elementos:
+🔍 De Navegação. 🔍 Cores. 🔍 Tipografia. 🔍 Ícones. 🔍 Fontes.
+
+- site: https://material.io
+
+### Bootstrap
+
+- Ferramenta gratuita e open source CSS de prototipagem.
+- Modelos baseados em, CSS, Html e JavaScript.
+- Instalável no desktop.
+
+- Site: https://www.bootstrap.com
+### Figma
+
+- Ferramenta de prototipagem.
+- Aplicativo web colaborativa.
+- Recursos offline.
+- Variedade de editores gráficos vetoriais.
+- Protótipos clicáveis.
+- Equipes trabalhando ao mesmo tempo.
+
+- Site: https://www.figma.com/
+### Adoble XD
+
+- Ferramenta de prototipagem paga.
+- Design vetorial para aplicações web e móvel.
+- Versões para Andrid e IOS.
+- Wireframes.
+- Protótipos Clicáveis.
+- Pode ser compartilhado em Nuvem.
+- Equipes trabalhando ao mesmo tempo.
+
+- Site: https://helpx.adobe.com/br/xd/get-started.html
+### Just in Mind
+
+- Ferramenta de prototipagem paga (teste de 7 dias grátis).
+- Design de alta fidelidade
+- Wireframes.
+- Prototipação Web e móvel.
+- Renderiza versões realistas.
+- Simulação em dispositivo móvel.
+- Gera Html.
+
+Site: https://www.justinmind.com
+
+## Prototipagem de Baixa, Média e Alta Fidelidade
+
+[ Loading... ]
 
 # Links Úteis
 
