@@ -475,6 +475,7 @@ Site: https://material.io
 - Ferramenta gratuita e open source CSS de prototipagem.
 - Modelos baseados em, CSS, Html e JavaScript.
 - Instalável no desktop.
+
 Site: https://www.bootstrap.com
 ### Figma
 
@@ -484,6 +485,7 @@ Site: https://www.bootstrap.com
 - Variedade de editores gráficos vetoriais.
 - Protótipos clicáveis.
 - Equipes trabalhando ao mesmo tempo.
+
 Site: https://www.figma.com/
 ### Adoble XD
 
@@ -494,6 +496,7 @@ Site: https://www.figma.com/
 - Protótipos Clicáveis.
 - Pode ser compartilhado em Nuvem.
 - Equipes trabalhando ao mesmo tempo.
+
 Site: https://helpx.adobe.com/br/xd/get-started.html
 
 ### Just in Mind
