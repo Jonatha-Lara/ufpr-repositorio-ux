@@ -2,7 +2,7 @@
 <a><img align="justify" height="80" src="assets/logo-ufpr.jpg"></a> 
 # ufpr-repositorio-ux
 
-Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolvimento Ágil de Software.
+Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolvimento Ágil de Software 2025, Professora Doutora Isabela Mantovani Fontana.
 
 
 
@@ -528,7 +528,9 @@ Site: https://www.justinmind.com
 |`Adoble UX`    | https://helpx.adobe.com/br/xd/get-started.html                                |
 |`Just in Mind`    | https://www.justinmind.com |
 
+# Indicação de Livros
 
+[ Loading... ]
 
 # ![UX](assets/about.png) About
 Hi, my name is Jonatha. I live in Londrina, PR, and I am a Java Systems Development Analyst. I have a degree as a Technologist in Systems Analysis and Development from Unicesumar, and I am currently pursuing a postgraduate degree at the Federal University of Paraná in Agile Software Methodology.
