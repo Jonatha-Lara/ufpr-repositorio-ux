@@ -1,10 +1,12 @@
+<div align="center">
+    <a><img height="333" src="assets/logo-ufpr.jpg"></a>
+</div>
 
-<a><img align="justify" height="80" src="assets/logo-ufpr.jpg"></a> 
 # ufpr-repositorio-ux
 
-Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolvimento Ágil de Software 2025, Professora Doutora Isabela Mantovani Fontana.
+Repositório inspirado nos conteúdos das aulas da disciplina de "UX", turma de pós graduação em Desenvolvimento Ágil de Software na UFPR (Universidade Federal do Paraná).
 
-
+Professora Doutora Isabela Mantovani Fontana.
 
 # ![UX](assets/logo-ux-dois.png) User Experience - Unidade 1: Introdução ao UX 
 
@@ -12,7 +14,7 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 
 - Objetivo de entender as necessidades e desejos dos usuários e, em seguida, projetar produtos que atendam essas necessidades de forma eficaz e agradável. 
 
-## Técnicas e Metodologias
+# Técnicas e Metodologias
 
 - Pesquisa de usuário.
 - Prototipagem.
@@ -27,16 +29,16 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 
 🛒 Diferenciar da concorrência.
 
-## Os 4 conceitos de UX
+# Os 4 conceitos de UX
 🛒Os 4 conceitos andam juntos.
 | **UX**                | **Descrição**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
-| `UX - Design de Experiência do Usuário`   | Como o usuário se sente sobre os aplicativos.                                                     |
-|`UI - Design de Interface`    | Onde os elementos funcionam nos produtos (ex. app ou web sites).                                   |
-|`IxD - Design de Interação`    | Forma como o usuário e produto ou aplicativo interagem entre si.                                   |
-|`IA - Arquitetura de Informação`    | Como os produtos os aplicativos são organizados.                                   |
+| `UX - Design de Experiência do Usuário:`   | Como o usuário se sente sobre os aplicativos.                                                     |
+|`UI - Design de Interface:`    | Onde os elementos funcionam nos produtos (ex. app ou web sites).                                   |
+|`IxD - Design de Interação:`    | Forma como o usuário e produto ou aplicativo interagem entre si.                                   |
+|`IA - Arquitetura de Informação:`    | Como os produtos os aplicativos são organizados.                                   |
 
-## Conceitos Psicológicos Fundamentais para Interação
+# Conceitos Psicológicos Fundamentais para Interação
 
 - `Recursos/Possibilidades:` O objetivo principal do produto ou aplicativo.
 - `Indicadores:` Ajudar o usuário na ação que ele deve ser feita por ele.
@@ -44,7 +46,7 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 - `Mapeamento:` O caminho do usuário para uma tarefa com o produto. Comparação da visão de desenvolvedor e usuário.
 - `FeedBack:` Função que está realizando, o propósito/trabalho que o usuário esta trilhando.
 
-## Importância do UX
+# Importância do UX
 
 ❤️Satisfação do usuário.
 
@@ -60,41 +62,47 @@ Repositório das aulas da disciplina UX da pós graduação na UFPR em Desenvolv
 
 `1988 - Livro conceito de UX () "The Design of everyday Thinks"`
 
-- UX Metodologias surgidas (Donald Norman e Jakob Nilsen):
-    - Thinking
-    - Agile
-
 `2010 - Disciplina estabilizada e reconhecida.`
+#### UX Metodologias surgidas (Donald Norman e Jakob Nilsen):
+    
+     🔍 Thinking
+     
+     🔍 Agile
 
-## Usabilidade
+# Usabilidade
 
 - Pilares Principais
     
-    🏛️ `Relação de usabilidade e ergonomia.`
-    🏛️ `Acessibilidade, experiência do usuário, proteção de dados de uso.`
-    🏛️ `Entregar a ideia objetiva ao usuário.`
+    🛒 `Relação de usabilidade e ergonomia.`
+
+    🛒 `Acessibilidade, experiência do usuário, proteção de dados de uso.`
+
+    🛒 `Entregar a ideia objetiva ao usuário.`
 
 - Regras de ouro para o design de Interface.
 
-🔍 `Não ter erros`
-🔍 `Fácil de usar`
-🔍 `Fácil de entender`
-🔍 `Eficaz para objetivo final do produto`
+    🛒 `Não ter erros.`
 
-## Acessibilidade 
+    🛒 `Fácil de usar.`
 
-Uso para todos!
+    🛒 `Fácil de entender.`
+
+    🛒 `Eficaz para objetivo final do produto.`
+
+# Acessibilidade 
+
+### Uso para todos.
 
 | **Elemento**                | **Descrição**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
-| `Design Inclusivo`   | Considerar ampla necessidade e experiência do usuário desde o início de processo.                                                     |
-|`Normas e Diretrizes`    | Oferecem orientações sobre como tornar produtos digitais acessíveis a deficientes por exemplo.                                 |
-|`Elementos Percebidos`    | Todos os usuários devem perceber o objetivo e uso do produto.                                   |
-|`Robustez`    | Operável, robusto e compreensível.                                   |
+| `Design Inclusivo:`   | Considerar ampla necessidade e experiência do usuário desde o início de processo.                                                     |
+|`Elementos Percebidos:`    | Todos os usuários devem perceber o objetivo e uso do produto.                                   |
+|`Robustez:`    | Operável, robusto e compreensíve   |
+                                
 
-## Design Centrado no usuário (UCD)
+# Design Centrado no usuário (UCD)
 
-A abordagem é fundamental no campo da experiência do usuário.
+- A abordagem é fundamental no campo da experiência do usuário.
 
 - Necessidades e expectativas do usuário no centro do processo.
 
@@ -110,24 +118,25 @@ A abordagem é fundamental no campo da experiência do usuário.
     V. Ênfase de usabilidade.
     VI. Teste de usabilidade.
 
-## Boas Práticas
+# Boas Práticas
 
-❤️Conteúdo claro e conciso: Relevante
+- Conteúdo claro e conciso: Relevante.
+
 | **Atributo de Boas Práticas**                | **Descrição**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
-| `Relevante`   | Objetivo de interesse e necessário aos usuários.                                                     |
-|`Sem excessos`    | Textos ou informações desnecessárias ou exageradas.                                  |
-|`Resposta rápida`    | Execução, carregamentos ágeis da aplicação.                                   |
-|`Personalização`    | Usuários realizarem personalização, temas, opções de layout ou configurações de privacidade.                                   |
-|`Design responsivo`    | Experiência com vários tipos de desktops.                                   |
-|`FeedBack amigáveis`    | Orientar usuário com notificações, mensagem de erro.
+| `Relevante:`   | Objetivo de interesse e necessário aos usuários.                                                     |
+|`Sem excessos:`    | Textos ou informações desnecessárias ou exageradas.                                  |
+|`Resposta rápida:`    | Execução, carregamentos ágeis da aplicação.                                   |
+|`Personalização:`    | Usuários realizarem personalização, temas, opções de layout ou configurações de privacidade.                                   |
+|`Design responsivo:`    | Experiência com vários tipos de desktops.                                   |
+|`FeedBack amigáveis:`    | Orientar usuário com notificações, mensagem de erro.
                                 
  
 # ![UX](assets/logo-ux-dois.png) User Experience - Unidade 2: Compreensão do Usuário e Arquitetura de Informação
 - Aspectos essenciais na Arquitetura do sistema
 - Experiência interativa e satisfatória para os usuários.
 
-## Métodos de Pesquisa
+# Métodos de Pesquisa
 🔍`Entrevistas`, 🔍`Questionários`, 🔍`Observações`,🔍`Pesquisas`
 
 - O método abordado depende do objetivo do projeto, recursos, estratégia, objetivos, desejável haver combinações de métodos (mais eficiente dos resultados).
@@ -144,11 +153,11 @@ A abordagem é fundamental no campo da experiência do usuário.
 |`Analise os comentários:`    | Analisar feedbacks em plataformas, redes sociais, comentários de ouvidoria do próprio serviço ou produto.                                  |
 
 
-#### 🛒 "Usar em conjunto melhor será o processo!"
+#### "Usar em conjunto melhor será o processo!"
 
-## Entrevistas
+# Entrevistas
 - É uma feramenta valisosa, pode ser usada com outro métodos.
-#### 📢 Defina objetivos e selecione os participantes certos. 
+#### 🛒 Defina objetivos e selecione os participantes certos. 
 - Roteiro Flexível.
 - Estabelecer ambiente confortável.
 - Ouça atentamente.
@@ -156,13 +165,13 @@ A abordagem é fundamental no campo da experiência do usuário.
 - Registre as informações.
 - Analise os dados.
 
-## Questionários
+# Questionários
 - Eficaz com grandes amostras.
 - Abrange mais pessoas interagindo com o método.
 - Forma de administração dos questionários.
  
- #### 🪝`"Qualidade das perguntas reflete a qualidade dos dados"`
-##### Planejamento Execução do processo
+ #### `"Qualidade das perguntas reflete a qualidade dos dados"`
+### Planejamento Execução do processo
 
 	I. Defina objetivos.
 	II. Perguntas abertas.
@@ -176,37 +185,37 @@ A abordagem é fundamental no campo da experiência do usuário.
 	X. Garantir, anonimato e privacidade.
 	XI. Analise os dados.  
 
-## Observação
+# Observação
 
-- Comportamento do usuário em seu ambiente natural de uso. Deve haver objetivo no que busca.
+Comportamento do usuário em seu ambiente natural de uso. Deve haver objetivo no que busca.
 
 🔍`Contexto apropriado`, 🔍 `Ser discreto`, 🔍 `Fazer anotações detalhadas`, 🔍 `Ferramentas de suporte`
 - Múltiplos participantes, prepara-se para surpresas!
 - Analise os dados de forma sistemática.
 
 # Personas e Jornada do Usuário
-## Personas 
+# Personas 
 👔 Representações fictícias com base em dados reais e pesquisas com usuário.
 
 👔 Compreender comportamento, usos e motivações do consumidor final.
 
 ## Pesquisa com Usuário final
 
-🔸️Coletar dados sobre:
+🛒 Coletar dados sobre:
 - Características demográficas.
 - Comportamentos.
 - Necessidades.
 - Objetivos.
 
 ## Identificar Padrões
-🔸️Análise dos dados para:
+🛒 Análise dos dados para:
 - Identificação de padrões do usuário.
 - Tendências.
 - Insights.
 - Pode agrupar usuários com características semelhantes (idade, sexo...)
 
 ## Definição de Personas
-🔸️Com base nos dados coletados com usuários finais:
+🛒 Com base nos dados coletados com usuários finais:
 - Representar diferentes segmentos.
 - Deve possuir um nome.
 - Deve possuir uma foto (imagem representativa).
@@ -227,12 +236,11 @@ Tomada de decisão centrada no usuário.`
 ![UX](assets/personas.png)
 
 # Jornada do Usuário
+🛒 Representações visuais do caminho percorrido pelo usuário ao longo do processo.
 
-🛳 Representações visuais do caminho percorrido pelo usuário ao longo do processo.
+🛒 Entender o usuário em diferentes etapas.
 
-🛳 Entender o usuário em diferentes etapas.
-
-🛳 Oportunidade de melhorias.
+🛒 Oportunidade de melhorias.
 
 | Identificação dos estágios da Jornada |
 |-----------------------------------------------|
@@ -265,7 +273,7 @@ Tomada de decisão centrada no usuário.`
  # Organização do Conteúdo e Estruturas de Navegação
  ## Organização de conteúdo
 
-🔸️ Usado na criação das interfaces.
+🛒  Usado na criação das interfaces.
 
 | Diretrizes e Práticas |
 |-----------------------------------------------|
@@ -283,7 +291,7 @@ Tomada de decisão centrada no usuário.`
 | `Responsivo (UX Responsive).` |
 
 ## Estrutura de Navegação
-🔸️ Maneira que os usuários se movem dentro do sistema. Aplique práticas:
+🛒  Maneira que os usuários se movem dentro do sistema. Aplique práticas:
 
 | Práticas para boa estrutura de Navegação|
 |-----------------------------------------------|
@@ -298,49 +306,41 @@ Tomada de decisão centrada no usuário.`
 | `Teste de usabilidade.` |
 | `Ajustes necessários sempre.` |
 
-#Hierarquia de Informação
+# Hierarquia de Informação
 
-🪝 Organização e Priorização de conteúdo para interface, melhora a compreensão de uso do usuário.
+🔍 Organização e Priorização de conteúdo para interface, melhora a compreensão de uso do usuário.
 
-🪝 Identifique os objetivos do usuário.
+🔍 Identifique os objetivos do usuário.
 
-🪝 Defina os principais elementos de navegação.
+🔍 Defina os principais elementos de navegação.
 
-🪝 Use estrutura de Árvore.
+🔍 Use estrutura de Árvore.
 
-🪝 Cabeçalhos e títulos auto descritivos.
+🔍 Cabeçalhos e títulos auto descritivos.
 
-🪝 Priorize o conteúdo relevante ao interesse do usuário.
+🔍 Priorize o conteúdo relevante ao interesse do usuário.
 
-🪝 Manter consistência visual (semântica).
+🔍 Manter consistência visual (semântica).
 
-🪝 Utilize espaçamentos coerentes, agrupamentos de informações coerentes.
+🔍 Utilize espaçamentos coerentes, agrupamentos de informações coerentes.
 
-🪝 Testar e iterar.
+🔍 Testar e iterar.
 
 # Wireframes
 
 🎨 São representações técnicas de uma página web usadas no design de UX.
 
-`I. Layout simples.`
+`🔍 Layout simples. 🔍 Mostra a estrutura de layout (o primeiro passo). 🔍 Planejamento do layout, distribuição dos elementos. 🔍 Forma eficaz de comunicar ideias. 🔍 Podem ser mais complexos.`
 
-II. Mostra a estrutura de layout (o primeiro passo).
+- Reservar espaços no layout para elementos como fotos, vídeos, logos, ícones mais elaborados, gifs ou propagandas.`
 
-`III. Planejamento do layout, distribuição dos elementos.`
-
-IV. Forma eficaz de comunicar ideias.
-
-`V. Podem ser mais complexos.`
-
-VI. Reservar espaços no layout para elementos como fotos, vídeos, logos, ícones mais elaborados, gifs ou propagandas.`
-
-`VII. Há Ferramentas para usar, ou pode ser feito a punho.` 
+- Há Ferramentas para usar, ou pode ser feito a punho.` 
 
 # ![UX](assets/logo-ux-dois.png) User Experience - Unidade 3: Técnicas de UX e Design de Interface do Usuário (UI)
 
-## Princípios do Design de Interação
+# Princípios do Design de Interação
 
-- Diretrizes fundamentais seguido pelo UX Design de interação para melhor entrega na experiência do usuário.
+### Diretrizes fundamentais seguido pelo UX Design de interação para melhor entrega na experiência do usuário.
 
 | **Elemento**                | **Descrição**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
@@ -355,40 +355,40 @@ VI. Reservar espaços no layout para elementos como fotos, vídeos, logos, ícon
 | `Contextualização Clara:` | Funcionalidade e conceito claro e compreensível, de fácil uso. |
 | `Acessibilidade:` | Atender a vários tipos de usuário. |
 
-## Design Responsivo e Adaptativo
-🐕 Se Adaptar em diferentes dispositivos.
+# Design Responsivo e Adaptativo
+- Se Adaptar em diferentes dispositivos.
 
-🐕 Interagir com o conteúdo de forma eficaz independente do tipo de dispositivo.
+- Interagir com o conteúdo de forma eficaz independente do tipo de dispositivo.
 
-🐕 Elementos mais importantes são destacados e visíveis.
+- Elementos mais importantes são destacados e visíveis.
 
-🐕 Conteúdos menos relevantes são reduzidos, adaptados para se readequar conforme o dispositivo usado.
+- Conteúdos menos relevantes são reduzidos, adaptados para se readequar conforme o dispositivo usado.
 
-### Navegação Interativa
+### 🎨 Navegação Interativa
 
-🔺 Menus e navegação são projetados para serem fáceis e intuitivos.
+          Menus e navegação são projetados para serem fáceis e intuitivos.
 
-### Performance Otimizada
+### 🎨 Performance Otimizada
 
-🔺 Ser ágil e rápido nos carregamentos e transições de uma ação.
+          Ser ágil e rápido nos carregamentos e transições de uma ação.
 
-### Testes e Interação Contínua
+### 🎨 Testes e Interação Contínua
 
-🔺 Testar e iterar constantemente em diferentes dispositivos.
+         Testar e iterar constantemente em diferentes dispositivos.
 
-### Design Adaptativo
+### 🎨 Design Adaptativo
 
-🔺 Ajustes de resolução, capacidades de entrada e contexto do usuário.
+         Ajustes de resolução, capacidades de entrada e contexto do usuário.
 
-### Personalização com base no Conteúdo
+### 🎨 Personalização com base no Conteúdo
 
-🔺 Levar em consideração a localização, hora do dia e tipo do dispositivo usado.
+         Levar em consideração a localização, hora do dia e tipo do dispositivo usado.
 
-## Animações e Microinterações
+# Animações e Microinterações
 
-`Nível de feedback e atratividade do usuário.`
+`"Nível de feedback e atratividade do usuário."`
 
-### 🐶 Animações
+### Animações
 
 - Usar com moderação.
 - Feedback instantâneo.
@@ -399,7 +399,7 @@ VI. Reservar espaços no layout para elementos como fotos, vídeos, logos, ícon
 - Personalidade e diferenciação dos concorrentes.
 - Reduz cargas cognitivas dos usuários.
 
-### 🐶 Microinterações
+### Microinterações
 
 - Pequenos detalhes interativos do design.
 - Elementos de interação.
@@ -407,29 +407,29 @@ VI. Reservar espaços no layout para elementos como fotos, vídeos, logos, ícon
 - Feedback imediato.
 - Destacar a interatividade.
 
-## Fundamentos do Design Visual
+# Fundamentos do Design Visual
 
-🎨 Hierarquia Visual: Destacar o que é mais relevante e importante.
+🎨 `Hierarquia Visual:` Destacar o que é mais relevante e importante.
 
-🎨 Equilíbrio: Elementos distribuídos de forma organizada.
+🎨 `Equilíbrio:` Elementos distribuídos de forma organizada.
 
-🎨 Espaços em branco: Manter coerência entre os espaços, usar medidas parecidas para elementos do mesmo contexto.
+🎨 `Espaços em branco:` Manter coerência entre os espaços, usar medidas parecidas para elementos do mesmo contexto.
 
-🎨 Consistência: Manter fidelidade dos estilos usados.
+🎨 `Consistência:` Manter fidelidade dos estilos usados.
 
-🎨 Tipografia: Tipos de fontes e seus tamanhos adequados, harmônicos e consistentes.
+🎨 `Tipografia:` Tipos de fontes e seus tamanhos adequados, harmônicos e consistentes.
 
-🎨 Cores: Criar atmosfera coesa.
+🎨 `Cores:` Criar atmosfera coesa.
 
-🎨 Acessibilidade: Garantir acessibilidade a vários tipos de usuários.
+🎨 `Acessibilidade:` Garantir acessibilidade a vários tipos de usuários.
 
-🎨 Iconográfica: Usar ícones intuitivos e harmônico com o contexto e elementos.
+🎨 `Iconográfica:` Usar ícones intuitivos e harmônico com o contexto e elementos.
 
-🎨 Feedback Visual: Usuário entendendo o que está acontecendo durante o uso.
+🎨 `Feedback Visual:` Usuário entendendo o que está acontecendo durante o uso.
 
-## Grids e Layouts
+# Grids e Layouts
 
-### 🎠Grids
+### Grids
 - Grades que integram o espaço, limitando o espaço dos elementos e demarcando espaços em branco.
 - Google Material Design tem sugestões de grids: https://material.io 
 - Cria-se uma consistência visual.
@@ -438,7 +438,7 @@ VI. Reservar espaços no layout para elementos como fotos, vídeos, logos, ícon
 - O grid pode se adaptar, responsiva.
 - Facilidade em manutenção.
 
-### 🎠Layouts
+### Layouts
 
 - Onde cada elemento deve se encaixar com base no grid.
 - Reflete a hierarquia das informações.
@@ -448,10 +448,11 @@ VI. Reservar espaços no layout para elementos como fotos, vídeos, logos, ícon
 
 # ![UX](assets/logo-ux-dois.png) User Experience - Unidade 4: Prototipagem
 
-- Permite que o Design crie teste rapidamente da ideia e conceito da aplicação.
+Permite que o Design crie teste rapidamente da ideia e conceito da aplicação.
+
 - Escolher as ferramentas certar de acordo com a necessidade.
 
-## Ferramentas de Prototipagem 
+# Ferramentas de Prototipagem 
 
 Ferramentas usadas para realizar prototipagem:
 
@@ -461,23 +462,23 @@ Ferramentas usadas para realizar prototipagem:
 - Adoble XD.
 - Just in mind.
 
-### Material Design
+### 🎨 Material Design
 
 - É uma linguagem visual sugerida pelo Google.
 - Nas guidelines são sugeridos elementos:
 
-🔍 De Navegação. 🔍 Cores. 🔍 Tipografia. 🔍 Ícones. 🔍 Fontes.
+`🔍 De Navegação. 🔍 Cores. 🔍 Tipografia. 🔍 Ícones. 🔍 Fontes.`
 
 Site: https://material.io
 
-### Bootstrap
+### 🎨 Bootstrap
 
 - Ferramenta gratuita e open source CSS de prototipagem.
 - Modelos baseados em, CSS, Html e JavaScript.
 - Instalável no desktop.
 
 Site: https://www.bootstrap.com
-### Figma
+### 🎨 Figma
 
 - Ferramenta de prototipagem.
 - Aplicativo web colaborativa.
@@ -487,7 +488,7 @@ Site: https://www.bootstrap.com
 - Equipes trabalhando ao mesmo tempo.
 
 Site: https://www.figma.com/
-### Adoble XD
+### 🎨 Adoble XD
 
 - Ferramenta de prototipagem paga.
 - Design vetorial para aplicações web e móvel.
@@ -499,7 +500,7 @@ Site: https://www.figma.com/
 
 Site: https://helpx.adobe.com/br/xd/get-started.html
 
-### Just in Mind
+### 🎨 Just in Mind
 
 - Ferramenta de prototipagem paga (teste de 7 dias grátis).
 - Design de alta fidelidade
@@ -511,8 +512,87 @@ Site: https://helpx.adobe.com/br/xd/get-started.html
 
 Site: https://www.justinmind.com
 
-## Prototipagem de Baixa, Média e Alta Fidelidade
+# Prototipagem de Baixa, Média e Alta Fidelidade
 
+## 🚀 Prototipagem de Baixa Fidelidade
+
+- Simples e rápido.
+- Esboço rápido e sem detalhes de precisão.
+- Pode ser feito a lápis ou caneta e papel.
+- Pode ser feito em ferramentas digitais.
+- É acessível e flexível.
+- Comunicar conceitos.
+- Objetivo é capiturar a estrutura e o fluxo em geral.
+- Envolve pouco recursos, de tempo e custos financeiros.
+- Sempre envolver o usuário com testes.
+- Pacível de aprimoramentos e ajustes.
+
+<div align="center">
+    <a><img height="300" src="assets/baixafidelidade.png"></a>
+</div>
+## 🚀 Prototipagem de Media Fidelidade
+
+- Estágio intermediário de prototipação.
+- Inclui mais detalhes que os de baixa fidelidade, como cores, tipografia, layout, interações básicas.
+- Coleta de feedkback
+- Sempre envolver o usuário com testes.
+
+<div align="center">
+    <a><img height="300" src="assets/mediafidelidade.png"></a>
+</div>
+
+## 🚀 Prototipação de Alta Fidelidade
+
+- Final do processo.
+- Semelhante a versão final.
+- interações definidas e mapeadas.
+- Herarquia e estrutura.
+
+### Design Visual
+
+- Cores, elementos visuais.
+- Identidade da marca.
+- Design estabelecido.
+- Posição dos elementos.
+- Hierarquia e estrutura.
+
+### Interatividade
+
+- Interações e animações.
+- Reprodução da experiência real.
+- Microinterações.
+- Fluído e intuitivo.
+
+### Funcionalidades
+
+- Principais funcionalidades.
+- Principais tarefas.
+- Menu botões, formulário, navegação.
+
+### Testes e Validação
+
+- Iteração com o usuário.
+- Validar os pontos do fluxo.
+
+### Testes e Usabilidade com Protótipo
+
+- Momento crucial do produto.
+- Feedbacks maduros.
+- Definir os testes.
+- Selecione os participantes de acorddo com o público alvo.
+- Proporcione um ambiente confortável.
+- Propósito com clareza.
+- Forneça instruções: solicite tarefas específicas.
+- Observe e registre as interações.
+- Análise de resultados.
+- Oportunidade de ajustes e insights.
+- Ajustes com base em sugestões dos usários, e problemas encontrados.
+- Repitir constantemente os testes.
+- Tenha sempre a mentalidade aberta.
+
+<div align="center">
+    <a><img height="300" src="assets/altafidelidade.png"></a>
+</div>
 [ Loading... ]
 
 # Links Úteis
