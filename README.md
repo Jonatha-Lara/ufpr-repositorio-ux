@@ -530,6 +530,7 @@ Site: https://www.justinmind.com
 <div align="center">
     <a><img height="300" src="assets/baixafidelidade.png"></a>
 </div>
+
 ## 🚀 Prototipagem de Media Fidelidade
 
 - Estágio intermediário de prototipação.
