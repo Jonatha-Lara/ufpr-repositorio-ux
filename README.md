@@ -597,12 +597,15 @@ Site: https://www.justinmind.com
 
 # Princípios de Design Acessivo
 
-- Garantir a usabilidade alcancem vários tipos de pessoas e suas variadas necessidades, físicas ou cognitiva.
+Garantir a usabilidade alcancem vários tipos de pessoas e suas variadas necessidades, físicas ou cognitiva.
 
-`Perceptibilidade:` Os elementos devem ser percebidos por todos os tipos de usuários.
-`Operabilidade:` Garantir que os tipos de usuários possam operar e interagir com o produto de forma eficaz.
-`Entendimento:` Conteúdo e funcionalidade de fácil compreensão, organização lógica e orientações claras de uso.
-`Acessível em diferentes tipos de entrada:` Teclado, mouse.
+🔍 `Perceptibilidade:` Os elementos devem ser percebidos por todos os tipos de usuários.
+
+🔍 `Operabilidade:` Garantir que os tipos de usuários possam operar e interagir com o produto de forma eficaz.
+
+🔍 `Entendimento:` Conteúdo e funcionalidade de fácil compreensão, organização lógica e orientações claras de uso.
+
+🔍 `Acessível em diferentes tipos de entrada:` Teclado, mouse.
 
 - Usar cores e contrastes legíveis a diferentes tipos de usuários (Daltônicos por exemplo).
 - Tratativas textuais para elementos não textuais.
@@ -617,7 +620,7 @@ Site: https://www.justinmind.com
 - Sugerem resoluções.
 - Auxiliam nas correções de problemas de acessibilidade.
 
-## axe DEV Tools
+## 🛒 axe DEV Tools
 
 - Extensão de navegadores web.
 - Gratuito.
@@ -625,7 +628,7 @@ Site: https://www.justinmind.com
 
 Site: 
 
-## Wave
+## 🛒 Wave
 
 - Ferramenta gratuita.
 - Fornece relatórios detalhados.
@@ -635,13 +638,13 @@ Site:
 
 Site: https://wave.webaim.org 
 
-## AInspector Sidebar
+## 🛒 AInspector Sidebar
 
 - Extensão de navegadores web.
 - Análises de acessibilidade detalhadas.
 - Sugestão de correção em tempo real.
 
-## Accessibility Insghts
+## 🛒 Accessibility Insghts
 
 - Ferramenta da Microsoft.
 - Paga.
@@ -651,7 +654,7 @@ Site: https://wave.webaim.org
 
 Site: https://acessibilityinsights.io
 
-## Siteimprove Acessibility Checker
+## 🛒 Siteimprove Acessibility Checker
 
 - Ferramenta de análise.
 - Detalhamentos de acessibilidade.
@@ -660,7 +663,7 @@ Site: https://acessibilityinsights.io
 
 Site: https://siteimprove.com/teo/kit/accessibility-cheker/
 
-## LightHouse
+## 🛒 LightHouse
 
 - Ferramenta open source da Google.
 - Parte dos apps Google, Google Chrome DevTools.
@@ -668,7 +671,7 @@ Site: https://siteimprove.com/teo/kit/accessibility-cheker/
 
 Site:
 
-## Tenon
+## 🛒 Tenon
 
 - Ferramenta de acessibilidade automatizada.
 - Personalizável.
@@ -676,7 +679,7 @@ Site:
 
 Site:
 
-## Deque Axe
+## 🛒 Deque Axe
 
 - Ferramentas de acessibilidade.
 - Auditorias analíticas.
