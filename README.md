@@ -97,7 +97,7 @@ Professora Doutora Isabela Mantovani Fontana.
 |---------------------------|---------------------------------------------------------------------------|
 | `Design Inclusivo:`   | Considerar ampla necessidade e experiência do usuário desde o início de processo.                                                     |
 |`Elementos Percebidos:`    | Todos os usuários devem perceber o objetivo e uso do produto.                                   |
-|`Robustez:`    | Operável, robusto e compreensíve   |
+|`Robustez:`    | Operável, robusto e compreensível   |
                                 
 
 # Design Centrado no usuário (UCD)
@@ -156,7 +156,7 @@ Professora Doutora Isabela Mantovani Fontana.
 #### "Usar em conjunto melhor será o processo!"
 
 # Entrevistas
-- É uma feramenta valisosa, pode ser usada com outro métodos.
+- É uma fermenta valiosa, pode ser usada com outro métodos.
 #### 🛒 Defina objetivos e selecione os participantes certos. 
 - Roteiro Flexível.
 - Estabelecer ambiente confortável.
@@ -351,7 +351,7 @@ Tomada de decisão centrada no usuário.`
 | `Flexibilidade e eficiência de uso:` | Acomodar diferentes níveis de habilidades, tanto o usuário iniciante como um avançado. |
 | `Prevenção de erro:` | Projetar para evitar erros, de forma que oriente o usuário no uso. |
 | `Design centrado no usuário:` | Criar experiência que atendam a expectativa do usuário. |
-| `Affordances:` | Os Elementos devem seguir a ideia do qual quer propor, um botão clicavel, deve parecer clicavel. |
+| `Affordances:` | Os Elementos devem seguir a ideia do qual quer propor, um botão clicável, deve parecer clicável. |
 | `Contextualização Clara:` | Funcionalidade e conceito claro e compreensível, de fácil uso. |
 | `Acessibilidade:` | Atender a vários tipos de usuário. |
 
@@ -492,7 +492,7 @@ Site: https://www.figma.com/
 
 - Ferramenta de prototipagem paga.
 - Design vetorial para aplicações web e móvel.
-- Versões para Andrid e IOS.
+- Versões para Android e IOS.
 - Wireframes.
 - Protótipos Clicáveis.
 - Pode ser compartilhado em Nuvem.
@@ -522,10 +522,10 @@ Site: https://www.justinmind.com
 - Pode ser feito em ferramentas digitais.
 - É acessível e flexível.
 - Comunicar conceitos.
-- Objetivo é capiturar a estrutura e o fluxo em geral.
+- Objetivo é capturar a estrutura e o fluxo em geral.
 - Envolve pouco recursos, de tempo e custos financeiros.
 - Sempre envolver o usuário com testes.
-- Pacível de aprimoramentos e ajustes.
+- Passível de aprimoramentos e ajustes.
 
 <div align="center">
     <a><img height="300" src="assets/baixafidelidade.png"></a>
@@ -547,7 +547,7 @@ Site: https://www.justinmind.com
 - Final do processo.
 - Semelhante a versão final.
 - interações definidas e mapeadas.
-- Herarquia e estrutura.
+- Hierarquia e estrutura.
 
 ### Design Visual
 
@@ -580,20 +580,106 @@ Site: https://www.justinmind.com
 - Momento crucial do produto.
 - Feedbacks maduros.
 - Definir os testes.
-- Selecione os participantes de acorddo com o público alvo.
+- Selecione os participantes de acordo com o público alvo.
 - Proporcione um ambiente confortável.
 - Propósito com clareza.
 - Forneça instruções: solicite tarefas específicas.
 - Observe e registre as interações.
 - Análise de resultados.
 - Oportunidade de ajustes e insights.
-- Ajustes com base em sugestões dos usários, e problemas encontrados.
-- Repitir constantemente os testes.
+- Ajustes com base em sugestões dos usuários, e problemas encontrados.
+- Repetir constantemente os testes.
 - Tenha sempre a mentalidade aberta.
 
 <div align="center">
     <a><img height="300" src="assets/altafidelidade.png"></a>
 </div>
+
+# Princípios de Design Acessivo
+
+- Garantir a usabilidade alcancem vários tipos de pessoas e suas variadas necessidades, físicas ou cognitiva.
+
+`Perceptibilidade:` Os elementos devem ser percebidos por todos os tipos de usuários.
+`Operabilidade:` Garantir que os tipos de usuários possam operar e interagir com o produto de forma eficaz.
+`Entendimento:` Conteúdo e funcionalidade de fácil compreensão, organização lógica e orientações claras de uso.
+`Acessível em diferentes tipos de entrada:` Teclado, mouse.
+
+- Usar cores e contrastes legíveis a diferentes tipos de usuários (Daltônicos por exemplo).
+- Tratativas textuais para elementos não textuais.
+- Navegação só com teclados para atender usuários com limitações motoras.
+- Layout Responsivo.
+- Testes com mais diverso tipo de usuário.
+
+# Ferramentas de Verificação de Acessibilidade
+
+- Para UX Design existem várias ferramentas para uso de melhoria de acessibilidade.
+- Identificam problemas.
+- Sugerem resoluções.
+- Auxiliam nas correções de problemas de acessibilidade.
+
+## axe DEV Tools
+
+- Extensão de navegadores web.
+- Gratuito.
+- Verificação de acessibilidade em tempo real, durante o desenvolvimento.
+
+Site: 
+
+## Wave
+
+- Ferramenta gratuita.
+- Fornece relatórios detalhados.
+- Detecta problemas.
+- Sugere correções.
+- Para app web.
+
+Site: https://wave.webaim.org 
+
+## AInspector Sidebar
+
+- Extensão de navegadores web.
+- Análises de acessibilidade detalhadas.
+- Sugestão de correção em tempo real.
+
+## Accessibility Insghts
+
+- Ferramenta da Microsoft.
+- Paga.
+- Verificação detalhada de acessibilidade.
+- Para app web.
+- Sugestões de correção em tempo real.
+
+Site: https://acessibilityinsights.io
+
+## Siteimprove Acessibility Checker
+
+- Ferramenta de análise.
+- Detalhamentos de acessibilidade.
+- Identificação de problemas.
+- Sugestão de correções.
+
+Site: https://siteimprove.com/teo/kit/accessibility-cheker/
+
+## LightHouse
+
+- Ferramenta open source da Google.
+- Parte dos apps Google, Google Chrome DevTools.
+- Análises automáticas para web, incluindo acessibilidade.
+
+## Tenon
+
+- Ferramenta de acessibilidade automatizada.
+- Personalizável.
+- Relatórios detalhados.
+
+## Deque Axe
+
+- Ferramentas de acessibilidade.
+- Auditorias analíticas.
+- Manual de identificação de problemas e correções de problemas.
+
+Site: https://www.deque.com/axe/ 
+
 [ Loading... ]
 
 # Links Úteis
