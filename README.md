@@ -4,7 +4,7 @@
 
 # ufpr-repositorio-ux
 
-Repositório inspirado nos conteúdos das aulas da disciplina de "UX", turma de pós graduação em Desenvolvimento Ágil de Software na UFPR (Universidade Federal do Paraná).
+Repositório inspirado nos conteúdos das aulas assíncronas (32 aulas) da disciplina de "UX", turma de pós graduação em Desenvolvimento Ágil de Software na UFPR (Universidade Federal do Paraná).
 
 Professora Doutora Isabela Mantovani Fontana.
 
@@ -308,29 +308,22 @@ Tomada de decisão centrada no usuário.`
 
 # Hierarquia de Informação
 
-🔍 Organização e Priorização de conteúdo para interface, melhora a compreensão de uso do usuário.
+- Organização e Priorização de conteúdo para interface, melhora a compreensão de uso do usuário.
 
-🔍 Identifique os objetivos do usuário.
-
-🔍 Defina os principais elementos de navegação.
-
-🔍 Use estrutura de Árvore.
-
-🔍 Cabeçalhos e títulos auto descritivos.
-
-🔍 Priorize o conteúdo relevante ao interesse do usuário.
-
-🔍 Manter consistência visual (semântica).
-
-🔍 Utilize espaçamentos coerentes, agrupamentos de informações coerentes.
-
-🔍 Testar e iterar.
+- Identifique os objetivos do usuário.
+- Defina os principais elementos de navegação.
+- Use estrutura de Árvore.
+- Cabeçalhos e títulos auto descritivos.
+- Priorize o conteúdo relevante ao interesse do usuário.
+- Manter consistência visual (semântica).
+- Utilize espaçamentos coerentes, agrupamentos de informações coerentes.
+- Testar e iterar.
 
 # Wireframes
 
-🎨 São representações técnicas de uma página web usadas no design de UX.
+São representações técnicas de uma página web usadas no design de UX.
 
-`🔍 Layout simples. 🔍 Mostra a estrutura de layout (o primeiro passo). 🔍 Planejamento do layout, distribuição dos elementos. 🔍 Forma eficaz de comunicar ideias. 🔍 Podem ser mais complexos.`
+`🎨 Layout simples. 🎨 Mostra a estrutura de layout (o primeiro passo). 🎨 Planejamento do layout, distribuição dos elementos. 🎨 Forma eficaz de comunicar ideias. 🎨 Podem ser mais complexos.`
 
 - Reservar espaços no layout para elementos como fotos, vídeos, logos, ícones mais elaborados, gifs ou propagandas.`
 
@@ -687,7 +680,29 @@ Site:
 
 Site: https://www.deque.com/axe/ 
 
-[ Loading... ]
+# O Papel das emoções no Design
+
+- As emoções potencializam o engajamento do usuário.
+- Evocar emoções com cores, nomeclaturas e interações.
+
+## Menonabilidade
+
+- As emoções influenciam na criação de memorias.
+- Quanto mais positiva a experiência mais memorável torna-se.
+- Potencializa chances de fidelidade.
+
+## Usabilidade
+
+- Situações de experiência de frustração, estress, confusão e/ou ansiedade tem o potencial de desgastar a relação do usuário com produto, fazendo-o largar o uso.
+
+## Confiança
+
+- Conexão direta do usuário com o produto. O produto participa da vida do usuário.
+- Uso pelo usuário a longo prazo.
+
+## Satisfação do Usuário
+- Emoções influenciam na satisfação do usuário.
+- Maior probabilidade de recomendação pelo usuário.
 
 # Links Úteis
 
@@ -703,6 +718,14 @@ Site: https://www.deque.com/axe/
 |`Just in Mind`    | https://www.justinmind.com |
 
 # Indicação de Livros
+
+| **Descrição**                | **Link**                                                                 |
+|---------------------------|---------------------------------------------------------------------------|
+| `UX`   | https://                                                   |
+| `UX`   | https://                                                   |
+| `UX`   | https://                                                   |
+| `UX`   | https://                                                   |
+| `UX`   | https://                                                   |
 
 [ Loading... ]
 
